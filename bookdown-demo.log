@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  20 JUL 2022 10:40
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  21 JUL 2022 08:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1186,11 +1186,11 @@ Chapter 1.
 
 ]
 Chapter 2.
-[7] [8
-
-]
+[7] [8]
 Chapter 3.
-[9] [10
+[9
+
+] [10
 
 ]
 Chapter 4.
@@ -1206,35 +1206,38 @@ Chapter 6.
 
 ]
 Chapter 7.
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 204
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 197
 .
 (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
-LaTeX Warning: Reference `intro' on page 17 undefined on input line 204.
+LaTeX Warning: Reference `intro' on page 17 undefined on input line 197.
+
+
+LaTeX Warning: Reference `methods' on page 17 undefined on input line 197.
 
 File: bookdown-demo_files/figure-latex/nice-fig-1.pdf Graphic file (type QTm)
 <use  "bookdown-demo_files/figure-latex/nice-fig-1.pdf" > [17] (./bookdown-demo
 .bbl [18])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 267.
 [19
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 267.
 (./bookdown-demo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 274.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 267.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 267.
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 29198 strings out of 493706
- 514840 string characters out of 6145769
- 648179 words of memory out of 5000000
- 32236 multiletter control sequences out of 15000+600000
- 10123 words of font info for 71 fonts, out of 8000000 for 9000
+ 29194 strings out of 493706
+ 514614 string characters out of 6145769
+ 648313 words of memory out of 5000000
+ 32238 multiletter control sequences out of 15000+600000
+ 10099 words of font info for 68 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  58i,8n,103p,10408b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 
