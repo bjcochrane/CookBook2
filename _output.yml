@@ -1,7 +1,10 @@
 bookdown::gitbook:
   css: style.css
+  split_by: section
   config:
     toc:
+      css: toc.css
+      collapse: none
       before: |
         <li><a href="./">A Minimal Book Example</a></li>
       after: |
