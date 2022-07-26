@@ -1,16 +1,11 @@
----
-title: "Introduction"
-author: "Bruce Cochrane"
-date: "2022-07-20"
-output: html_document
----
+
 # Introduction 
 
 Cooking has always been a big part of my life, but since I retired from my career as a geneticist, I have had more time to explore new areas.  In particular, two factors have become central to my culinary efforts:
 
 ## Bread
 
-I have long been fascinated by sourdough cooking - I successfully made my first starter (on the first try!) in 1974 and managed to keep it going for a few years before moves and inattention doomed it to oblivion.  When I moved to Ohio in 2007, my interest was rekindled, especially after I discovered Reinhardt's *Artisanal Bread at Home*.  His starter recipe took a couple of trys, but the use of "organic" flour and pineapple juice in the initial mix proved successful.  That starter is now about 13 years old and going strong (I'll talk about maintenance in Chapter 2).  
+I have long been fascinated by sourdough cooking - I successfully made my first starter (on the first try!) in 1974 and managed to keep it going for a few years before moves and inattention doomed it to oblivion.  When I moved to Ohio in 2007, my interest was rekindled, especially after I discovered Reinhardt's *Artisanal Bread at Home*.  His starter recipe took a couple of trys, but the use of "organic" flour and pineapple juice in the initial mix proved successful.  That starter is now about 13 years old and going strong (I'll talk about maintenance in the [Bread](#bread) section).  
 
 The second piece in by bread baking evolution was a result of my wife's Christmas gift of *Tartines* in 2021.  This is a fascinating book, one which interweaves recipes with detailed explanations of the reason for each step and photographs of how the steps are performed.  The recipes are fairly involved, and following them from the book involves a lot of page turning (NOT something I'd want to do with an ebook), but the results can be spectacular.  Again, I will provide some [simplified ideas](#tartines) to facilitate your efforts.
 
@@ -23,7 +18,7 @@ Over the subsequent years, my Green Egg recipe portfolio has diversified.  Most 
 
 ## Other Stuff
 
-But you might say things like "man doesn't live by bread alone" or "what about the winter months?".  Both are valid critiques, so in subsequent sections, I will describe some indoor cooking recipes I've come to depend on.  And I'll be quite honest - I really don't go for admittedly healthy options like, perhaps, green bean and kale salad.  So I've entitled the chapter [Comfort Food](#comfort), reflecting the fact that, while the recipes are perhaps not the stuff of a dietitian's dream, they are (at least to me) fun to eat.  Furthermore, most of them don't require a whole lot of cooking time. Some of them are modifications of ones originally found in cookbooks (which are cited), but which I have modified for either flavor or ease of cooking reasons.  A good example of this is the recipe for macaroni and cheese - the sauce is originally from the venerable *Joy of Cooking* but modified to increase the spiciness and make use of a microwave oven.
+But you might say things like "man doesn't live by bread alone" or "what about the winter months?".  Both are valid critiques, so in a subsequent section, I will describe some indoor cooking recipes I've come to depend on.  And I'll be quite honest - I really don't go for admittedly healthy options like, perhaps, green bean and kale salad.  So I've entitled the chapter [Comfort Food](#comfort), reflecting the fact that, while the recipes are perhaps not the stuff of a dietitian's dream, they are (at least to me) fun to eat.  Furthermore, most of them don't require a whole lot of cooking time. Some of them are modifications of ones originally found in cookbooks (which are cited), but which I have modified for either flavor or ease of cooking reasons.  A good example of this is the recipe for macaroni and cheese - the sauce is originally from the venerable *Joy of Cooking* but modified to increase the spiciness and make use of a microwave oven.
 
 ## A Note on Portion Size and Original Sources
 

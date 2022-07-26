@@ -1,13 +1,3 @@
----
-title: "Kitchen Essentials"
-author: "Bruce Cochrane"
-date: "2022-07-23"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Kitchen Essentials {#essentials}
 
 So the bad news is that there is an enormous number of kitchen gadgets, utensils, dishes, bowls and table top appliances out there eager to drain your wallet.  The good news?  You don't need most of them.  Beyond the items found in every kitchen (stove, refrigerator, mixing bowls, etc.) there are only a few items that will make your life easier, and in fact you can cook perfectly adequately without them.  Here are a few that I use on a regular basis.
@@ -16,4 +6,4 @@ So the bad news is that there is an enormous number of kitchen gadgets, utensils
 
 The following can be done without, but I consider them to be all but essential.
 
-1.  A stand mixer.  The two cookbooks I recommend in the [Bread](#bread) section have different takes on this.  Reinhard calls for using one in almost every recipe, while I'm pretty sure that Robertson (*Tartines*) doesn't even mention them.  I happen to use one wherever possible, even when the recipe doesn't call for it (and will do do so throughhout the recipes).  Ours is a Viking that, as far as I can tell, is no longer being manufactured (although you may find a used one available on ebay or some similar site).  The much more common one, of course, is the [Kitchenaid], a fine machine.  It comes in two sizes , 4 qt. and 5.5 qt.  I received one of the former as a wedding present 40 years ago, and it served all of my needs at the time just fine (indeed, it is now at my lakefront cottage in the Finger Lakes and still going strong.  Were I to buy one today (or if our Viking dies), I would probably go with the larger one.
+1.  A stand mixer.  The two cookbooks I recommend in the [Bread](#bread) section have different takes on this.  Reinhard calls for using one in almost every recipe, while I'm pretty sure that Robertson (*Tartines*) doesn't even mention them.  I happen to use one wherever possible, even when the recipe doesn't call for it (and will do do so throughhout the recipes).  Ours is a Viking that, as far as I can tell, is no longer being manufactured (although you may find a used one available on ebay or some similar site).  The much more common ones, of course, those of [Kitchenaid](https://www.kitchenaid.com/countertop-appliances/stand-mixers.html), fine machines.  It comes in two sizes , 4 qt. and 5.5 qt.  I received one of the former as a wedding present 40 years ago, and it served all of my needs at the time just fine (indeed, it is now at my lakefront cottage in the Finger Lakes and still going strong.  Were I to buy one today (or if our Viking dies), I would probably go with the larger one.

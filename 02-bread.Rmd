@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-While I've tried to include everything you need to know in order to bake all of these recipes, I have not included a lot of background information on the whys and wherefors of the processes.  For that, I strongly recommend that you purchase the following two books (and get physical books, not ebooks.  Ebooks are not good for all the page-flipping you will want to do.
+While I've tried to include everything you need to know in order to bake all of these recipes, I have not included a lot of background information on the whys and wherefores of the processes.  For that, I strongly recommend that you purchase the following two books And get physical books, not ebooks.  Ebooks are not good for all the page-flipping you will want to do.
 
 1. *Artesan Bread at Home* by Peter Reinhardt.  This is the book I started with, and it remains a go-to sources.  It walks you through [making and maintaining starter](#starter), and my recipes for [Pan au Levain](#pal) and [pizza dough](#pizzadough) come more or less directly from it.  There are lots of other good recipes (both sourdough and conventional) that you may want to try.
 2.  *Tartines*, by Chad Robertson.  This book took me to the next step of sourdough baking.  It is a different kind of book, in that a) it is very autobiographical, an b) it is mostly built around [a single recipe](#tartines).  It is also extremely well illustrated, so I'd suggest having it at hand when you follow my condensed versions of his recipes
@@ -28,9 +28,29 @@ I've never been a fan of 100% whole wheat bread, however adding a small amount (
 
 ## Making the starter {#starter}
 
+### Getting it Started
+
+### Maintaining and Recharging
+
+Reinhardt recommends recharging the mother starter at least once a week.  I find that not to be necessary (at least with my starter) - doing so every 3-4 weeks has proven to be adequate.  However, my qualitative observation is that the longer I've left it in the refrigerator, the longer the recharge fermentation takes. Only once or twice has following the recipe below failed; in that case I go back to step xxx in the process I used to make the starter in the first place and go from there.  The normal recharge procedure is as follows:
+
+> 2 3/4 cups bread flour (add some whole wheat if you like)  
+> 1 cup warm water  
+> 3/4 cup mother starter  
+
+1.  Mix all of the ingredients together using a non-metalic spoon/spatula or your fingers.  
+2.  Transfer to a clean ceramic bowl and cover with food service wrap
+3.  Place in a warm place overnight, or until the starter has nearly doubled in bulk and is very bubbly.
+4.  Transfer to a sealed food storage container and store in the refrigerator.  I do recommend labeling the container with the date it was made.
+
+
+
+
 ## Recipes
 
 ### Pan au Levain {#pal}
+
+This is our go-to Reinhardt-style bread, and I give him all of the credit for suggesting the ingenious trick of adding whole wheat flour to the starter.  My addition was to hybridize it with the Robertson approach to proofing, shaping and baking.  I think you will be more than pleased with the results.
 
 ### Pizza Dough {#pizzadough}
 
@@ -46,9 +66,10 @@ I cooked these for Thanksgiving dinner, and I anticipate doing so from here on o
 
 Make the starter as follows:
 
-> 1 tbsp mother starter
-> ~1/3 cup flour (either bread or all purpose)
-> 3.5 tbsp water
+> 1 tbsp mother starter  
+> ~1/3 cup flour (either bread or all purpose)  
+> 3.5 tbsp water  
+
 
 Combine the above in a small bowl, cover with food service wrap, and let it rise in a warm place overnight.
 
@@ -56,13 +77,13 @@ Combine the above in a small bowl, cover with food service wrap, and let it rise
 
 Dough ingredients:
 
-> 2 tbsp melted butter
-> 1 cup (240 gm) milk
-> 3 tbsp (44 gm) sugar
-> 1 tsp (5 gm) salt
-> 1/2 cup (100 gm) starter
-> 3 cups + 2 tbsp (375 gm) bread flour
-> 1 tbsp melted butter to brush on surface after baking
+> 2 tbsp melted butter  
+> 1 cup (240 gm) milk  
+> 3 tbsp (44 gm) sugar  
+> 1 tsp (5 gm) salt  
+> 1/2 cup (100 gm) starter  
+> 3 cups + 2 tbsp (375 gm) bread flour  
+> 1 tbsp melted butter to brush on surface after baking  
 
 Mixing the dough:
 
@@ -81,6 +102,8 @@ Today is shaping and baking day, a good day to plan for delicious fresh rolls wi
 2.  Put dough on a surface dusted with rice flour and divide into 12 roughly equal pieces of ~65 grams each.
 3.  Shape each piece into a ball by turning up the sides and pinching them together.  Arrange in a 9 X 13 inch baking dish dusted with rice flour (either a glass or a ceramic dush will work), cover with a towel, and let rise 3-4 hours.
 4.  Preheat your oven to 375^o^ F.  Brush the surface of the rolls with melted butter and bake 25-30 minutes until golden brown.
+
+### Ciabatta rolls
 
 ### Essential Tartine Bread {#tartines}
 
