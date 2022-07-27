@@ -31,11 +31,45 @@ Feel free to be creative in how you serve; I usually have this with white rice a
 
 ### Berbere/curry chicken
 
-### Chicken Cacciatore
+### Chicken Cacciatore {#cacciatore}
+
+This is one of the very few recipes that I concocted by myself - I don't really even remember when.  For convenience sake, I usually do it in our slow cooker, but it can also be done (in less time) on the stove top.  I've included the slow cooker instructions below, with parenthetical notes about doing it on the stove top.
+
+Ingredients:  
+
+> 1-2 tbsp olive oil
+> 2 lb. boneless chicken thighs, cut into 1 inch cubes (white meat can be substituted if you prefer)  
+> 1 red onion, chopped  
+> 2-3 cloves garlic, chopped  
+> 1 bell pepper, chopped  
+> 1 14.5 oz can diced tomatoes, drainged  
+> 1/2 cup red wine
+> 1 tbsp. red wine vinegar
+> 1/4 - 1/2 tsp crushed red pepper  
+> 1 tsp black pepper  
+> 2 tsp [Penzey's Italian Herb Mix](https://www.penzeys.com/online-catalog/italian-herb-mix/c-24/p-183/pd-s) (a mix of dried basil and oregano can be substituted)  
+
+1.  Set the slow cooker to sauté and add the olive oil and onions.  Sauté for 10 minutes until onions or soft (alternatively, do this in a metal casserole over medium heat on your stove).  
+2.  Add the garlic and bell pepper and cook for 5 more minutes.
+3.  Add the chicken and cook, stirring, until it is browned (5-8 minutes).  
+4.  Add the tomatoes, wine, crushed red pepper, black pepper and Italian seasoning to the mix<sup>*</sup>
+5.  Set the slow cooker on "slow cook - high", cover, and let it cook for 3 hours (On the stove top, reduce heat to medium low, cover, and cook for 45 minutes to an hour)
+6.  Uncover the pot.  If the liquid needs reducing, return the slow cooker to sauté and cook until the desired consistency is achieved (on the stove top, raise heat to medium and do the same.
+7.  Serve over white rice or pastas
+
+> <sup>*</sup> In actuality I don't usually measure the spices - I just sprinkle them on as I see fit.  Thus, you should consider the amounts given as approximations and fee free to adjust them to taste.  Furthermore, if you have an italian herb blend you like, feel free to use it.
 
 ## Pork and beef {#comeat}
 
+### Fajitas {#fajitas}
+
 ## Seafood {#coseafood}
+
+### Shrimp in red sauce
+
+When possible, I really prefer grilling shrimp, but when that is impossible, here's a recipe I like to use. It comes from *Italian*, by Whiteman, Wright and Boggiano, a book I picked up in a bargain bin a long time back.  Note that the sauce is somewhat similar to my recipe for [chicken cacciatore](#cacciatore), and it can be used as a basic red sauce as desired (it works well as a pizza sauce or by itself over pasta).
+
+> 1/2 to 3/4 lb. shrimp, peeled and de-veined
 
 ## Non-meat and -fish {#conomeat} 
 
