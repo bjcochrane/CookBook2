@@ -1,6 +1,6 @@
 # Big Green Egg {#bge}
 
-So what is a Big Green Egg?  A more generic name is a komodo cooker - a heavy duty ceramic charcoal cooker, shaped like the ubiquitous Weber Cooker, but much heavier and more expensive.  If your budget can afford it, I recommend spending the bucks for an Egg, especially if you anticipate doing a lot of low temperature barbecuing.  It is much easier to control the temperature than in a Weber-style device, and a load of charcoal goes a lot longer (a 36 hour barbecue of pork butt or brisket can be completed on a single generous charcoal load).  Also, with proper handling, one will last forever, so that while the upfront costs are a challenge, over time you may end up saving money - in my prior life, I found that metal cookers had a lifespan of something like 3-5 years.
+So what is a Big Green Egg?  A more generic name is a komodo cooker - a heavy duty ceramic charcoal cooker, shaped like the ubiquitous Weber Cooker, but much heavier and more expensive.  If your budget can afford it, I recommend spending the bucks for an Egg, especially if you anticipate doing a lot of low temperature barbecuing.  It is much easier to control the temperature than in a Weber-style device, and a load of charcoal goes a lot longer (an 18 hour barbecue of pork butt or brisket can be completed on a single generous charcoal load).  Also, with proper handling, one will last forever, so that while the upfront costs are a challenge, over time you may end up saving money - in my prior life, I found that metal cookers had a lifespan of something like 3-5 years.
 
 With respect to what size to get, I strongly recommend the large (original) Egg.  As I mentioned earlier, we started with a medium (recommended for cooking for 2) but quickly found it to be overly constraining - I could barely fir four ears of [corn on the cob](#corn) into it.  Furthermore, you can forget grilling multiple different items at the same time.  
 
@@ -38,9 +38,9 @@ For all matters of temperature and time, I am a big fan of [Thermoworks](https:/
 1.  [The ChefAlarm Thermometer and Timer](https://www.thermoworks.com/chefalarm/) was my first device, and it is very useful for indoor cooking.  It will monitor a single temperature and has both time monitoring and high and low temperature alarms.  It comes with a single probe for monitoring internal temperatures, meaning that it can't be used to monitor both internal and grill temperatures.  In addition, it does not have remote monitoring (Bluetooth or WiFi) capabilities.  
 2.  So, if you want to go further, there are two items to start with.  The first is a **standalone timer**.  While Thermoworks is in the business of selling temperature controlled devices, it also offers an excellent selection of time monitoring devices.  My personal favorite is [the Extra Big and Loud Timer](https://www.thermoworks.com/extra-big-loud/) - it is very simple and straightforward to use.  Of course all kinds of timers can be had at grocery stores, kitchen stores, etc., so if you already have one of those (or wish to save money by buying one) that is a perfectly fine option.
 3.  The second is an **instant read thermometer**,  a step up in the sophistication scale.  If you have an internal monitoring device, it only reads the temperature in one spot; other spots in the item cooking may be hotter or cooler.  The best device on the market right now is the [Thermopen One](https://www.thermoworks.com/thermapen-one/), which has a one second response time.  The [Classic Thermopen](https://www.thermoworks.com/classic-thermapen/) is also a fine option, having a response time of 2-3 seconds, and which is about $20 less expensive.
-4.  Now we get into the heavy duty stuff - **multiple channel devices with remote monitoring capabilities**.  I've already addressed why multiple channel monitoring is important (for both grill and internal monitoring); we sometimes can use one or two additional channels (such as grilling or barbecuing poultry, where keeping track of both thigh and breast temperatures are important.  Thermoworks has two options to be considered.  The first is the [Smoke](https://www.thermoworks.com/search.php?search_query=smoke) series of devices.  The most inexpensive ($99 at time of writing) has two channels and basic blutetooth capabilities, and comes with one internal and one grill temperature probe.  Moving up in sophistication (and price) are the Smoke X2 and Smoke X4, both of which use longer distance RF transmission and have 2 and 4 channels respectively. But the absolute best (and what I use exclusively) is the [Signals](https://www.thermoworks.com/signals/) bluetooth and wifi device.  It can be controlled by a reasonably functional smart phone app, and with it connected to your WiFi network, you can actually monitor temperatures from anywhere in the world.  That may seem silly, but when you're doing a 16 hour barbecue of a brisket or a pork butt, that may prove to be useful - you will not be tied to your home for the duration - indeed, when you use a temperature control device (see below) you can actually make adjustments to the cooking temperature from afar.
+4.  Now we get into the heavy duty stuff - **multiple channel devices with remote monitoring capabilities**.  I've already addressed why multiple channel monitoring is important (for both grill and internal monitoring); we sometimes can use one or two additional channels (such as grilling or barbecuing poultry, where keeping track of both thigh and breast temperatures are important).  Thermoworks has two options to be considered.  The first is the [Smoke](https://www.thermoworks.com/search.php?search_query=smoke) series of devices.  The most inexpensive ($99 at time of writing) has two channels and basic blutetooth capabilities, and comes with one internal and one grill temperature probe.  Moving up in sophistication (and price) are the Smoke X2 and Smoke X4, both of which use longer distance RF transmission and have 2 and 4 channels respectively. But the absolute best (and what I use exclusively) is the [Signals](https://www.thermoworks.com/signals/) bluetooth and wifi device.  It can be controlled by a reasonably functional smart phone app, and with it connected to your WiFi network, you can actually monitor temperatures from anywhere in the world.  That may seem silly, but when you're doing a 16 hour barbecue of a brisket or a pork butt, that may prove to be useful - you will not be tied to your home for the duration. Indeed, when you use a temperature control device (see below) you can actually make adjustments to the cooking temperature from afar.
 5.  Of course, **probes** are an essential part of any temperature monitoring system.  All of the above devices come with an adequate selection of probes, but there are a large number of different ones available.  One I use a lot is a [High Temperature Needle Probe](https://www.thermoworks.com/tx-1015x-n2/), which is shorter, making it ideal for monitoring small or thin items like chicken wings or fish.  Also, although I was skeptical at first, I have found [Probe Spools](https://www.thermoworks.com/silicone-probe-spool/) to be an incredible convenience.  They all but eliminate tangling and kinking, things that can greatly reduce probe lifetimes.
-6.  So far we've dealt with temperature monitoring, but what about **Temperature Control**?  We are now at the ultimate high end of sophistication.  The device for doing so is the [Billows Temperature Control Fan](https://www.thermoworks.com/billows/), a fan that attaches to the lower vent of a barbecue device and, in combination with a Smoke or a Signals device, does its best to control the chamber temperature.  I always use it for low temperature cooking, and if I do so carefully, it is a godsend.  BUT, a few caveats:  
+6.  So far we've dealt with temperature monitoring, but what about **Temperature Control**?  We are now at the ultimate high end of sophistication.  The device for doing so is the [Billows Temperature Control Fan](https://www.thermoworks.com/billows/), a fan that attaches to the lower vent of a barbecue device and, in combination with a Smoke or a Signals device, does its best to control the chamber temperature.  I always use it for low temperature cooking, and if I do so carefully, it is a godsend.  BUT, two caveats:  
     - It requires electricity.  I am fortunate enough to have an outdoor plug near my outdoor cooking area, but if you don't, you'll have to either rig up extension cords from the nearest outlet or spring for [a 12 Volt Battery Pack](https://www.thermoworks.com/billows-12v-battery-bank/), which actually costs more than the device itself ($99 vs. $79).  
     - It is really good for bring your grill up to temperature, but it is largely ineffective in bringing it down.  Thus, if you're doing a low temperature cook, it is critical that you get it attached, set, and running well before the chamber has reached your desired temperature.  
 
@@ -59,6 +59,37 @@ For all matters of temperature and time, I am a big fan of [Thermoworks](https:/
 ### Some Basics
 
 ### Beef and Pork
+
+#### [Brisket Style Tritip](https://blog.thermoworks.com/beef/brisket-style-tri-tip/)
+
+This is a great place to start in your barbecue adventure.  Unlike a brisket, it is a small piece of meat,  more suitable for 1-2 people (although it will yield up multuple servings.  Furthermore, the cook time is reasonable (6-7 hours), and leftovers will keep in the refrigerator for days.
+
+Ingredients:
+
+> 2-3 pound Tri-tip roast  
+>  Your favorite beef barbecue rub (I use [Penzey's Barbecue 3000](https://www.penzeys.com/online-catalog/bbq-3000/c-24/p-327/pd-s)  
+> 3-4 Oak or Hickory Wood Chunks  
+> Orange Butcher paper
+
+1.  Soak the wood chunks in water for at least 30 minutes.
+2.  Load the barbecue with charcoal and add two Fire Starter Sticks.  Ignite.
+3.  As soon as the flame dies down, add the soaked wood chips and stir them into the coals as best you can.
+4.  Place your ConvEGGtor, and aluminum drip pan, and grill in place
+5.  *Immediately* hook up your Billows device with a long probe in channel 1 and your grill monitoring probe (attached to the grill).  
+6.  Using the Thermoworks app, set the fan temperature to 250^o^ F.  Close the upper vent on the Egg nearly completely
+7.  Apply a binder to the tri-tip.  Mustard is the standard here, however I use olive oil.
+8.  Apply rub liberally to all sides
+9.  Insert a long probe into the heart of the roast and place on grill. Close the lid and let the cooking commence.
+
+At this point, sit back, have a beer or a glass of wine, and keep an eye on time and temperature.  When the internal temperature reaches 250^o^ F. or when 2 hours have past (whichever comes first), proceed as follows:
+
+1.  Remove the roast from the Egg, keeping lid-open time to a minimum.
+2.  Wrap the roast in two layers of orange butcher paper.
+3.  Return the roast to the Egg, and with the app, increase the grill temperature to 275^o^ F.
+4.  When the roast has reached 200^o^ F. (about 3-4 hours), remove it and let it stand wrapped for 20 minutes or so.
+5.  Slice and enjoy!
+
+
 
 ### Chicken
 
