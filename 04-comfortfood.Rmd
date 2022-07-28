@@ -29,7 +29,22 @@ Ingredients:
 
 Feel free to be creative in how you serve; I usually have this with white rice and a side of applesauce. 
 
-### Berbere/curry chicken
+### [Berbere/curry chicken](https://www.penzeys.com/shop/recipes/berbere-chicken-and-rice/)
+
+This one is lifted straight from the Penzey's web - it's been tweaked a little and adapted for slow cooking.The biggest change I made was to double the amount of Curry and Berbere seasoning, rendering the dish spicier.  For firmer chicken, cook on the stove top; rather than 3 hours of slow cooking, cook for ~45 minutes over medium low heat.
+
+> 6 boneless skinless chicken thighs, cubed  
+> 1 tbsp olive oil  
+> 1 small red onion, chopped coursely  
+> ~ 2 tsp curry powder (I use Penzey's [Now Curry]  
+> ~2 tbsp Penzey's [Berbere Seasoning](https://www.penzeys.com/online-catalog/berbere-seasoning-blend/c-24/p-155/pd-s)    
+> 1 14.5 oz. can diced tomatoes, drained  
+
+1.  Use the sauté  setting to heat the oil, and add the onions, stirring occasionally, until they are softened (about 10 minutes).  
+2.  Add the chicken and cook, stirring as needed, until it is browned (5-8 minutes).  
+3.  Add the two spices and stir
+4.  Add the tomatoes, cover, and slow cook on high for 3 hours (or over medium to low heat for 45 minutes to an hour).
+5.  If necessary, uncover and set the heat to sauté to reduce the sauce.  Serve over white rice.
 
 ### Chicken Cacciatore {#cacciatore}
 
@@ -61,15 +76,41 @@ Ingredients:
 
 ## Pork and beef {#comeat}
 
+### "Raging" Rigatoni
+
+This is another old one, dating back (for me) to the 1970's and derive from *The Complete Book of Pasta*, by Jack Denton Scott.  A more formal name for it is Rigatoni All'Arrabbiatta.  It is simple to make, and leftovers reheat well. The biggest change I made was to add onions and garlic to it. I also do not saute the bacon; rather I let it cook with the sauce, resulting in what I think is a much more flavorful dish.
+
+**Ingredients**
+
+1 tbsp. olive oil  
+1 small onion, coarsely sliced  
+2 garlic gloves, grated  
+4 slices bacon  
+2-3 jalapeno peppers, sliced  
+1 28 oz can tomatoes (San Marzano are the best, but any will work)  
+Italian seasoning and black pepper to taste  
+6-8 oz pasta (the original calls for rigatoni, but I often substitute penné or some other similar tube variety  
+grated parmesan or romano cheese
+
+1.  Sauté onions and garlic in oil until soft in a 12 inch skillet, about 5-10 minutes
+2.  Add tomatoes, bacon, peppers and seasoning.
+3.  Cook uncovered over medium heat for about 15 minutes, stirring occasionally with a spatula, chopping the tomatoes as you do so.
+4.  While the sauce is reducing, cook your pasta by your favorite method (I use water with a dash of olive oil) *al denté and drain.
+5.  Combine the sauce and the pasta and serve, with parmesan or romano cheese available to sprinkle over servings.  
+
+Like all Italian food, this goes well with a serving of crusty bread (like [baguettes](#baguettes)) and a side salad.
+
 ### Fajitas {#fajitas}
 
-## Seafood {#coseafood}
+## Seafood {#coseafood} 
 
 ### Shrimp in red sauce
 
 When possible, I really prefer grilling shrimp, but when that is impossible, here's a recipe I like to use. It comes from *Italian*, by Whiteman, Wright and Boggiano, a book I picked up in a bargain bin a long time back.  Note that the sauce is somewhat similar to my recipe for [chicken cacciatore](#cacciatore), and it can be used as a basic red sauce as desired (it works well as a pizza sauce or by itself over pasta).
 
 > 1/2 to 3/4 lb. shrimp, peeled and de-veined
+
+### Panko-encrusted baked fish
 
 ## Non-meat and -fish {#conomeat} 
 
