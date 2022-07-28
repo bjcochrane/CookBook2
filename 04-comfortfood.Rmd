@@ -78,7 +78,11 @@ Ingredients:
 
 ### "Raging" Rigatoni
 
+<<<<<<< HEAD
 This is another old one, dating back (for me) to the 1970's and is derived from *The Complete Book of Pasta*, by Jack Denton Scott.  A more formal name for it is Rigatoni All'Arrabbiatta.  It is simple to make, and leftovers reheat well. The biggest change I made was to add onions and garlic to it. I also do not saute the bacon; rather I let it cook with the sauce, resulting in what I think is a much more flavorful dish.
+=======
+This is another old one, dating back (for me) to the 1970's and derive from *The Complete Book of Pasta*, by Jack Denton Scott.  A more formal name for it is Rigatoni All'Arrabbiatta.  It is simple to make, and leftovers reheat well. The biggest change I made was to add onions and garlic to it. I also do not saute the bacon; rather I let it cook with the sauce, resulting in what I think is a much more flavorful dish.
+>>>>>>> 2a3e6ce3710f10d9f726246b1410b632a0befa9f
 
 **Ingredients**
 
@@ -94,7 +98,11 @@ grated parmesan or romano cheese
 
 1.  Sauté onions and garlic in oil until soft in a 12 inch skillet, about 5-10 minutes
 2.  Add tomatoes, bacon, peppers and seasoning.
+<<<<<<< HEAD
 3.  Cook uncovered over medium heat for about 15 minutes, stirring occasionally with a spatula, chopping the tomatoes and breaking apart the bacon as you do so.
+=======
+3.  Cook uncovered over medium heat for about 15 minutes, stirring occasionally with a spatula, chopping the tomatoes as you do so.
+>>>>>>> 2a3e6ce3710f10d9f726246b1410b632a0befa9f
 4.  While the sauce is reducing, cook your pasta by your favorite method (I use water with a dash of olive oil) *al denté and drain.
 5.  Combine the sauce and the pasta and serve, with parmesan or romano cheese available to sprinkle over servings.  
 
