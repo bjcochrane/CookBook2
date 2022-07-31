@@ -125,4 +125,12 @@ This is a combination of two recipes, the [dinner roll](#drolls) recipe we've al
 
 ### Essential Tartine Bread {#tartines}
 
+![My first loaf and the source of the recipe](images/FirstTartine.jpeg){width=100%} 
+
+
+![On the inside](images/Tartine2.jpeg)
+
+
+
+
 ### Tartine Baguettes {#baguettes}

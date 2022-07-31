@@ -99,7 +99,7 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 
 > Pig wings (however many you want)  
 > BBQ rub  
-> 1 onion, sliced or diced.
+> 1 onion, sliced or diced.  
 > 8 oz. butter  
 > 8 oz. hot sauce (your favorite)  
 > Juice of half a lemon  
@@ -107,10 +107,10 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 > 1/2 cup apple cider vinegar  
 > 12 oz. beer
 
-1.  Prepare your smoker as you did for {#tritip},  For this recipe, you want to reach a cooking temperature of 300^o^ F. Hickory or apple wood work well for this recipe.  
+1.  Prepare your smoker as you did for [tri-tip](#tritip).  For this recipe, you want to reach a cooking temperature of 300^o^ F. Hickory or apple wood work well for this recipe.  
 2.  Remove any excess fat and the silver skin (if any) from the wings.
 3.  Season with BBQ rub (or with salt, pepper and garlic powder).
-4.  Place in the smoker and cookfor 1 hour, turning every 20 minutes.
+4.  Place in the smoker and cook for 1 hour, turning every 20 minutes.
 5.  While the wings are smoking, make the sauce as follows:
      a.  Melt the butter, add the onion, and sauté until soft.  
      b.  Add all of the remaining ingredients EXCEPT the beer and let it boil for a couple of minutes.  
@@ -119,7 +119,7 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 7.  Transfer the wings to an aluminum pan with ~1/2 inch of sauce in it.  Top the wings with some of the onions from the sauce.
 8.  Cover the pan with foil, insert an  internal temperature probe into one of the wings through the foil.
 9.  Cook until the internal temperature reaches 200^o^.  Verify with your instant read thermometer.
-10.  Allow wings to rest and then serve.
+10.  Allow wings to rest 10-15 minutes and then serve.
 
 ### Chicken
 
