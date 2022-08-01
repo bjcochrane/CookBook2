@@ -46,6 +46,12 @@ For all matters of temperature and time, I am a big fan of [Thermoworks](https:/
 
 7.  Finally, how to store all this mess?  While it's not, in my opinion, Thermoworks' finest product, their [Extra Large Zippered Storage Case](https://www.thermoworks.com/tx-1017x-c2/) will hold all of my devices (which, just to review, are a Big and Loud Timer, a Thermopen, a Signals monitoring unit, a Billows control unit, and four probes on spools).  I've also managed to add some metal skewers that I use on occasion.
 
+<center>
+![ ](images/thermokit.jpeg){width=50%}
+
+My temperature monitoring and control kit.  Clockwise from top:  Skewers, wiring for Billows, Billows device, Thermopen,  Signals controller, Big and Loud timer.
+
+</center>
 
 ## Grilling {#grill}
 
@@ -53,7 +59,48 @@ For all matters of temperature and time, I am a big fan of [Thermoworks](https:/
 
 ### Corn on the cob {#corn}  
 
+I am fortunate enough to have grown up in sweet corn country.  Indeed, one of my fondest childhood memories is, when we were visiting family friends on a farm in Macedon NY, the children (including me) were sent out in the field to pick fresh corn for the day's dinner.  From the field to the pot in 10 minutes - absolutely delicious!  Unfortunately, I then spent a big chunk of my life in Florida, and corn there simply doesn't measure up to what I grew up with.  Thus, it was absolutely wonder to discover, when I moved to Ohio in July of 2007 (peak corn season) that the corn here measures up to what I remember as a child.
 
+So the first secret about corn on the cob is freshness.  Ideally, it should be cooked the day it is picked; with storage, even refrigerated, the sugar in the corn rapidly turns to starch.  I have eaten second day corn, which is satisfactory, but fresher is better.
+
+So here's my method for cooking corn on the grill.  I'm not sure where I got the original recipe, but it's pretty basic and ubiquitous.
+
+**Ingredients**
+
+> 2-6 ears of fresh sweet corn, in husks  
+> melted butter  
+> fresh ground pepper  
+> grated parmesan (optional)  
+> butcher twine  
+
+1.  Peel the husks back (do NOT remove them) and discard silks.
+2.  Place corn into a large kettle of water and let soak for at least an hour.
+3.  Remove the corn from the water, baste with melted butter, and sprinkle with pepper, Parmesan (if desired) and any other flavors you might like (dill is a popular one.
+4.  Cut one ~8 inch piece of twine for each ear.  Wet them in water to make them easier to tie.
+5.  Fold the husks up over the corn and tie together with twine.
+6.  Place the corn on your grill preheated to 450^o^ and roast a total of 10 minutes, rotating the ears every 2.5 minutes.
+7.  Remove ears from grill.  With neoprene mitts on, grasp the ear with one hand and the stem with the other.  Snap vigorously  and separate the stem and attached husk from the ear of corn (you may want to cut the twine with scissors first).
+8.  Serve with just about anything.
+
+<center>
+
+![ ](images/cornongrill.jpeg){width=50%}
+
+Corn  prepared as described and half way through grilling
+
+![ ](images/Corn1.jpeg){width=50%}
+
+Grilling is complete
+
+![ ](images/corn2.jpeg){width=50%}
+
+Ready to eat
+
+![ ](images/husks.jpeg){width=50%}
+
+Ready for the compost pile.
+
+</center>
 ## Barbecuing {#bbq}
 
 ### Some Basics
@@ -80,7 +127,14 @@ Ingredients:
 7.  Apply a binder to the tri-tip.  Mustard is the standard here, however I use olive oil.
 8.  Apply rub liberally to all sides
 9.  Insert a long probe into the heart of the roast and place on grill. Close the lid and let the cooking commence.
+<p float="left">
+<center>
+![ ](images/tritip1.jpeg){width=40%} 
+![ ](images/ThermoScreen.jpeg){width=40%}
 
+Left panel:  Beginning the barbecue.  Right panel: Screenshot of initial readings on the Thermoworks app.
+</center>
+</p>
 At this point, sit back, have a beer or a glass of wine, and keep an eye on time and temperature.  When the internal temperature reaches 250^o^ F. or when 2 hours have past (whichever comes first), proceed as follows:
 
 1.  Remove the roast from the Egg, keeping lid-open time to a minimum.
@@ -107,7 +161,7 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 > 1/2 cup apple cider vinegar  
 > 12 oz. beer
 
-1.  Prepare your smoker as you did for [tri-tip](#tritip).  For this recipe, you want to reach a cooking temperature of 300^o^ F. Hickory or apple wood work well for this recipe.  
+1.  Prepare your smoker as you did for [tri-tip](#tritip).  For this recipe, you want to reach a cooking temperature of 250^o^ F. Hickory or apple wood work well for this recipe.  
 2.  Remove any excess fat and the silver skin (if any) from the wings.
 3.  Season with BBQ rub (or with salt, pepper and garlic powder).
 4.  Place in the smoker and cook for 1 hour, turning every 20 minutes.
@@ -115,7 +169,7 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
      a.  Melt the butter, add the onion, and sauté until soft.  
      b.  Add all of the remaining ingredients EXCEPT the beer and let it boil for a couple of minutes.  
      c.  Add the beer and boil for an additional 5 minutes.
-6.  After the hour of cooking above, mop the wings with the sauce.  Continue to cook for an additional hour, mopping every 20 minutes or so.
+6.  After the hour of cooking above, mop the wings with the sauce.  Continue to cook for an additional hour or until the internal temperature reaches 180^o^, mopping every 20 minutes or so.
 7.  Transfer the wings to an aluminum pan with ~1/2 inch of sauce in it.  Top the wings with some of the onions from the sauce.
 8.  Cover the pan with foil, insert an  internal temperature probe into one of the wings through the foil.
 9.  Cook until the internal temperature reaches 200^o^.  Verify with your instant read thermometer.

@@ -68,10 +68,18 @@ Make the starter as follows:
 
 > 1 tbsp mother starter  
 > ~1/3 cup flour (either bread or all purpose)  
-> 3.5 tbsp water  
-
+> 3.5 tbsp water 
 
 Combine the above in a small bowl, cover with food service wrap, and let it rise in a warm place overnight.
+
+<p float="left">
+<center>
+![Newly mixed roll starter](images/rollstarter1.jpeg){width=40%}
+![Starter after overnight fermentation](images/rollstarter2.jpeg){width=40%}
+
+Starter Before and After Overnight Fermentation
+</center>
+</p>
 
 #### Day 2
 
@@ -124,9 +132,10 @@ This is a combination of two recipes, the [dinner roll](#drolls) recipe we've al
 ### Ciabatta rolls
 
 ### Essential Tartine Bread {#tartines}
-
-![My first loaf and the source of the recipe](images/FirstTartine.jpeg){width=100%} 
-
+<center>
+![My first loaf and the source of the
+recipe](images/FirstTartine.jpeg){width=50%} 
+</center>
 
 ![On the inside](images/Tartine2.jpeg)
 
