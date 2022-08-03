@@ -102,6 +102,23 @@ Mixing the dough:
 5.  Repeat step four two more times, allowing 30 minutes of rising time between each stretch and fold.
 6.  Cover the bowl with food service wrap and refrigerate overnight.
 
+<center>
+![ ](images/drolls1.jpeg){width=70%}
+
+After initial mixing
+
+</center>
+
+<p float="left">
+<center>
+
+![ ](images/drolls2.jpeg){width=40%}
+![ ](images/drolls3.jpeg){width=40%}  
+
+Dough before (left) and after (right) stretching and folding.  Note that the dough has expanded in volume and has a smoother surface.  It also becomes much more eleastic.
+
+
+
 #### Day 3
 
 Today is shaping and baking day, a good day to plan for delicious fresh rolls with dinner!
@@ -113,32 +130,44 @@ Today is shaping and baking day, a good day to plan for delicious fresh rolls wi
 
 ### Parmesan Bubble Loaf
 
-This is a combination of two recipes, the [dinner roll](#drolls) recipe we've already seen and the recipe from another old but excellent cookbook - *A World of Breads* by Dolores Casella.  We used the first to make the dough and the second to process and bake the bread.
+This is a combination of three recipes, the [dinner roll](#drolls) recipe we've already seen, the recipe from another old but excellent cookbook - *A World of Breads* by Dolores Casella, and the technique for making cheese breads from Reinhart.  We used the first to make the dough and the others to process and bake the dough.
+
+Note that this recipe, as given previously, makes enough dough for one loaf.  I usually double everything to make two - one to eat right away (it doesn't last long!) and one to freeze for later.
 
 *Ingredients*
 
 > A batch of [dinner roll dough]($drolls), processed through Day 2 (in other words, substitute the following for the Day 3 instructions).  
-> 1/2 cup parmesan cheese, grated.  
-> 2 cloves garlic, grated or smashed  
-> 1/2 cup butter  
+> 1/2 cup parmesan cheese, grated. (3/4 cup if doubled)   
+> 2 cloves garlic, grated or smashed  (3 if doubled)  
+> 1/2 cup butter  (3/4 if doubled)
+> 1 batch dough
 
-1.  After the dough has warmed from its overnight fermentation, gently fold in the parmesan (note that this could have been done when mixing the dough, but I forgot).
-2.  Divide the dough into 14 pieces and shape into balls.
+1.  After the dough has warmed from its overnight fermentation,  gently flatten it on a floured work surface
+2.  Fold in the parmesan, divide the dough into 14 pieces and shape into balls.
+    - *If you are doing a double batch, divide it into two halves and process each as above.*
 3.  Melt the butter, add the garlic and cook briefly.
 4.  Lightly oil a standard bread loaf pan.  Roll each ball of dough in the garlic/butter mix and stack in the loaf pan.
 5.  Cover with a kitchen towel and allow it to rise 3-4 hours.
 6.  Bake at 400^o^ F. for ~45 minutes until the top of the loaf is golden brown.
 
+
 ### Ciabatta rolls
 
 ### Essential Tartine Bread {#tartines}
 <center>
-![My first loaf and the source of the
-recipe](images/FirstTartine.jpeg){width=50%} 
+![](images/FirstTartine.jpeg){width=50%} 
+
+My first loaf and the source of the
+recipe
 </center>
 
-![On the inside](images/Tartine2.jpeg)
+<center>
+![](images/Tartine2.jpeg){width=70%}
 
+
+On the inside, showing the open crumb that results from careful handling of the dough.
+
+</center>
 
 
 
