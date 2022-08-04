@@ -19,13 +19,15 @@ With respect to lighting, most sources recommend using a chimney, in which you m
 
 ## Accessories
 
+### The Basics
+
 For grilling, it certainly is possible to use your new Big Green Egg "out of the box", however a number of accessories, from the mundane to the sophisticated (and of course from cheap to expensive) help to greatly expand your grilling and barbecuing repertoire.  Here are a few I find to be invaluable:
 
 1.  An **ash tool**, something you should order when you purchase your Egg.  It is absolutely necessary for removing ashes from the Egg through the lower vent.  
 2.  A **garden trowel**,  which facilitates arranging the charcoal once it is in the egg.
 3.  A [**ConvEGGctor**](https://biggreenegg.com/product/conveggtor/).  I hate the name, but it's a great device if you want to use your egg more like an oven than a grill.  I routinely use it with brisket and smoked pork, and also for bread, which I occasionally cook in the Egg.
 
-There is, of course, a bunch of other stuff you will want to have, such as a grill brush, standard grilling tools, and some heavy duty oven mitts, but those are largely items of personal preference.  I'll now turn to the fancier stuff.
+There is, of course, a bunch of other stuff you will want to have, such as a grill brush, standard grilling tools, and some heavy duty oven mitts, but those are largely items of personal preference.  I'll now turn to the the critical issue of temperature control.
 
 ### Temperature Control
 
@@ -47,7 +49,24 @@ For all matters of temperature and time, I am a big fan of [Thermoworks](https:/
 7.  Finally, how to store all this mess?  While it's not, in my opinion, Thermoworks' finest product, their [Extra Large Zippered Storage Case](https://www.thermoworks.com/tx-1017x-c2/) will hold all of my devices (which, just to review, are a Big and Loud Timer, a Thermopen, a Signals monitoring unit, a Billows control unit, and four probes on spools).  I've also managed to add some metal skewers that I use on occasion.
 
 <center>
-![ ](images/thermokit.jpeg){width=50%}
+![](images/bgewithbillows.jpeg){width=70%}
+
+Big Green Egg with Billows and Signals attached.
+
+</center>
+
+
+<center>
+
+![](images/ThermoScreen.jpeg){width=40%}&nbsp; ![](images/thermo1hour.jpeg){width=40%}
+
+Screen shots of Thermoworks app display.  Left:  Readings screen, showing internal temperature (top) and grill temperature (bottom) at the beginning of a run.  Right:  Graph screen after one hour of cooking a tritip roast.  Grill temperature is in green and internal temperature is in gold.
+
+</center>
+
+
+<center>
+![ ](images/thermokit.jpeg){width=70%}
 
 My temperature monitoring and control kit.  Clockwise from top:  Skewers, wiring for Billows, Billows device, Thermopen,  Signals controller, Big and Loud timer.
 
@@ -118,13 +137,13 @@ This recipe was originally one designed for the Instant Pot, but it is really ea
 
 2.  Coat the beef with a tablespoon of fajita seasoning and the splash of red wine. Marinate for 30 min to an hour. 
 1. Slice the vegetables and add the remaining sasoning
-3.  Place the meat  in a grill basket and cook over a medium hot (450^o^ F.) grill until browned. Remove and set aside
-4.  Add the vegetables and cook for about 10 minutes, until vegetables are cooked through.
+3.  Place the meat  in a grill basket and cook over a medium hot (450^o^ F.) grill until browned, about 3-5 minutes. Remove and set aside
+4.  Add the vegetables to the basket and cook for about 10 minutes, until vegetables are cooked through.
 6.  Add the meat to the mixture and cook for another 5-10 minutes.
 7.  In your kitchen, briefly warm the tortillas on a frying pan over medium heat.  Place in a basket and cover with a kitchen towel.
-8.  Serve the tortillas, filling and lime wedges for people to put together for guests to serve themselves.
+8.  Serve the tortillas, filling and lime wedges for people to put together for guests to serve themselves. If desired, add your favorite hot sauce and/or sour cream (not my favorite).
 
-<sup>*</sup>There are plenty good choices of fajita seasonings out there.  If you choose to make your own, here is the [recipe that I use](https://littlesunnykitchen.com/fajita-seasoning/).
+<sup>*</sup>There are plenty good choices of fajita seasonings out there.  If you choose to make your own, here is the [recipe that I use](https://littlesunnykitchen.com/fajita-seasoning/).  If you are an instant pot user, you can find the original recipe [here](https://www.theinstantpottable.com/instant-pot-steak-fajitas/).
 
 ## Barbecuing {#bbq}
 
@@ -152,14 +171,15 @@ Ingredients:
 7.  Apply a binder to the tri-tip.  Mustard is the standard here, however I use olive oil.
 8.  Apply rub liberally to all sides
 9.  Insert a long probe into the heart of the roast and place on grill. Close the lid and let the cooking commence.
-<p float="left">
-<center>
-![ ](images/tritip1.jpeg){width=40%} 
-![ ](images/ThermoScreen.jpeg){width=40%}
 
-Left panel:  Beginning the barbecue.  Right panel: Screenshot of initial readings on the Thermoworks app.
+
+<center>
+![ ](images/tritip1.jpeg){width=40%}&nbsp;![](images/tritipwrapped.jpeg){width=40%} 
+
+Left: Beginning the barbecue Right: Tritip wrapped in butcher paper for final cook.
+
 </center>
-</p>
+
 At this point, sit back, have a beer or a glass of wine, and keep an eye on time and temperature.  When the internal temperature reaches 250^o^ F. or when 2 hours have past (whichever comes first), proceed as follows:
 
 1.  Remove the roast from the Egg, keeping lid-open time to a minimum.
@@ -167,6 +187,14 @@ At this point, sit back, have a beer or a glass of wine, and keep an eye on time
 3.  Return the roast to the Egg, and with the app, increase the grill temperature to 275^o^ F.
 4.  When the roast has reached 200^o^ F. (about 3-4 hours), remove it and let it stand wrapped for 20 minutes or so.
 5.  Slice and enjoy!
+
+<center>
+
+![](images/tritipafter1.jpeg){width=40%}&nbsp; ![](images/tritipafter2.jpeg){width=40%}
+
+Cooked and sliced.
+
+</center>
 
 #### [Pig Wings](https://blog.thermoworks.com/bbq-grilling/pig-wings/)
 

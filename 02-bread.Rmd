@@ -115,9 +115,10 @@ After initial mixing
 ![ ](images/drolls2.jpeg){width=40%}
 ![ ](images/drolls3.jpeg){width=40%}  
 
-Dough before (left) and after (right) stretching and folding.  Note that the dough has expanded in volume and has a smoother surface.  It also becomes much more eleastic.
+Dough before (left) and after (right) stretching and folding.  Note that the dough has expanded in volume and has a smoother surface.  It also becomes much more elastic.
 
-
+</center>
+</p>
 
 #### Day 3
 
@@ -150,6 +151,29 @@ Note that this recipe, as given previously, makes enough dough for one loaf.  I 
 5.  Cover with a kitchen towel and allow it to rise 3-4 hours.
 6.  Bake at 400^o^ F. for ~45 minutes until the top of the loaf is golden brown.
 
+<center>
+![](images/drolls4.jpeg){width=70%}
+
+Flattened dough with cheese sprinkled on it.
+
+</center>
+
+<p float="left">
+<center>
+
+![](images/drolls5.jpeg){width=35%} ![](images/drolls6.jpeg){width=35%}
+
+Unbaked loaf before and after the final rise.
+
+</center>
+</p>
+
+<center>
+![](images/drolls7.jpeg){width=80%}
+
+The final product
+
+</center>
 
 ### Ciabatta rolls
 
