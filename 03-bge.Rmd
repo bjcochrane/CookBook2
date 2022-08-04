@@ -145,6 +145,31 @@ This recipe was originally one designed for the Instant Pot, but it is really ea
 
 <sup>*</sup>There are plenty good choices of fajita seasonings out there.  If you choose to make your own, here is the [recipe that I use](https://littlesunnykitchen.com/fajita-seasoning/).  If you are an instant pot user, you can find the original recipe [here](https://www.theinstantpottable.com/instant-pot-steak-fajitas/).
 
+### Korean Chicken Skewers
+
+This is another recipe from [*Southern Living](and is absolutely delicious and pretty easy to  prepare.  I cook these on metal skewers that are about 12 inches long and have a flat shape, so that the skewered food is easier to handle.
+
+**Ingredients**
+
+> 1/2 cup unsalted butter  
+> 2 garlic cloves, peeled and grated  
+> 1/3 cup honey
+> 1 tsp kosher salt
+> 1 tsp rice vinegar  
+> 2 lb boneless skinless thighs, cut into 1 inch cubes  
+> 1 large red onion, cut into wedges
+
+1. Prepare your grill for direct cooking at 450^o^ F,
+2.  Melt the butter on the stovetop over medium low heat.  
+3.  Add the garlic and cook for about two minutes.
+4.  Add the salt, vinegar and 2 Tbsp soy sauce, bring to a boil, and cook for about 2 minutes.  
+5.  Toss the chicken with the remaining soy sauce.
+6.  Thread the chicken and onion wedges onto skewers, adding two pieces of chicken followed by one onion wedge.
+7.  Grill, basting often with honey butter mixture, for 10-12 minutes until chicken is light charred and cooked (if you want to check with an instant read thermometer, the internal temperature of the chicken should be ~165^o^.
+8.  Serve over rice or bucatini.
+
+
+
 ## Barbecuing {#bbq}
 
 ### Some Basics
@@ -180,7 +205,7 @@ Left: Beginning the barbecue Right: Tritip wrapped in butcher paper for final co
 
 </center>
 
-At this point, sit back, have a beer or a glass of wine, and keep an eye on time and temperature.  When the internal temperature reaches 250^o^ F. or when 2 hours have past (whichever comes first), proceed as follows:
+At this point, sit back, have a beer or a glass of wine, and keep an eye on time and temperature.  When the internal temperature reaches 150^o^ F. or when 2 hours have past (whichever comes first), proceed as follows:
 
 1.  Remove the roast from the Egg, keeping lid-open time to a minimum.
 2.  Wrap the roast in two layers of orange butcher paper.
@@ -195,6 +220,24 @@ At this point, sit back, have a beer or a glass of wine, and keep an eye on time
 Cooked and sliced.
 
 </center>
+
+#### Roast beef for sandwiches
+
+This is one that showed up in my inbox from [Thermoworks](https://blog.thermoworks.com/blog/homemade-deli-style-roast-beef/).  I haven't tried it yet, but I'm betting it will work well barbecued on the grill.  Note that the original recipe calls for a preliminary sear; I'm betting that smoking without the convEGGtor will get the job done.
+
+**Ingredients**
+
+> 1 eye round roast, 2-3 lb  
+> kosher salt  
+> black pepper  
+
+1.  The night before you cook, salt the roast generously and place in the refrigerator covered.
+2.  Prepare your grill for low temperature smoking at 200^o^.  You may or may not want to add wood chunks (oak or hickory).
+3.  Rinse off excess salt, dry, and apply pepper.
+4.  Barbecue at 200^o^ F until internal temperature reaches 120-130^o^ F. (lower for more rare meat, higher for more tender).
+5.  Use your instant read thermometer to check for doneness.
+6.  For ease of slicing, put roast in the refrigerator overnight.
+
 
 #### [Pig Wings](https://blog.thermoworks.com/bbq-grilling/pig-wings/)
 
@@ -228,6 +271,40 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 9.  Cook until the internal temperature reaches 200^o^.  Verify with your instant read thermometer.
 10.  Allow wings to rest 10-15 minutes and then serve.
 
-### Chicken
+
+
+### Poultry
+
+#### Chicken Wings
+
+What's not to love about chicken wings?  Aside from the fact that they are messy to eat, they are very tasty, either by themselves or (as is more common) dipped in one of many different wing sauces.  Of course, wings are often broiled or fryed, but I have found that slow cookin on the barbecue works very well.  My preference is for wings that have been sectioned prior to cooking, but that is not necessary if you prefer keeping them whole.
+
+**Ingredients**
+
+> 2 lb. chicken wings  
+> barbecue seasoning of choice (salt and pepper would also work)  
+> 4 oz. hot sauce,<sup>*</sup>  
+> 3 tbsp. butter
+
+1.  Prepare your grill for smoking at 220^o^F.  I do not use wood chunks for this - the charcoal imparts plenty of flavor.
+2.  Pat the wings dry with paper towels, and if sectioning, use game shears to separate the tips, flats, and drumettes.  Discard the tips (or save them for making stock).
+3.  Liberally apply rub.
+4.  Place the wings on the grill, with a short needle probe inserted into the largest piece. If you have a grilling rack (see photo below), use it.
+5.  When the internal temperature reaches 125^o^ F., turn the wings over.
+6.  While they are continuing to cook, melt the butter and stir in the hot sauce.
+7.  When the internal temperature reaches 165^o^, remove the wings, stir in with the hot sauce mix, and serve.
+
+<sup>\*</sup> Given my western New York heritage, I am partial to Buffalo style wings.  Of course there are hundreds of commercial sauces available; I actually use one I get from an Amish market in Adams County Ohio.  A more widely available alternative is [Tabasco Bufalo Style Hot Sauce](https://www.tabasco.com/hot-sauces/buffalo-style-hot-sauce/).  Alternatively there are lots of recipes for making your own, either Buffalo style or your favorite alternative.  One that I like is [Korean barbecue ribs](https://www.tabasco.com/hot-sauces/buffalo-style-hot-sauce/) published recently in *Southern Living*:
+
+> 1/2 cup gochujang (available in the Asian section of most food stores or at specialty markets)  
+> 2 tbsp sesame oil  
+> 2 tbsp honey  
+> 1 tbsp peeled and grated ginger
+> 3 cloves garlic, peeled and chopped
+> chopped scallions  
+> toasted sesame seeds.
+
+The recipe given calls for the wings to be marinated in the first five ingredients for an hour, after which they are cooked as described above.  I'm sure this mix would also work if the wings were to be dipped in it after cooking rather than before.  Either way, the scallions and sesame seeds are sprinkled on the cooked wings before serving.
+
 
 ### Fish
