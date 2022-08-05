@@ -183,13 +183,82 @@ The final product
 
 My first loaf and the source of the
 recipe
+
 </center>
+
+It is fair to say that Alice's gift of the book *Tartine Bread* by Chad Robertson revolutionized my approach to bread making.  Instead of calling for relatively stiff dough kneaded either by hand or in a stand mixer, a series of gentle stretch and folds is used during the bulk fermentation of a very soft dough.  I have incorporated a stand mixer into the initial combining of ingredients - it saves a lot of mess - but otherwise I follow the original handling instructions (I have adjusted the flour ratio somewhat, but that was a matter of personal taste).  If you want to go this route, it may involve some investment, but the results will be worth it.
+
+So first, [**buy the book**](https://www.amazon.com/Tartine-Bread-Chad-Robertson/dp/0811870413/ref=sr_1_1?crid=384YPG5Z4NS52&keywords=tartine+bread&qid=1659704334&sprefix=Tartine%2Caps%2C563&sr=8-1).  It is available (and quite inexpensive) as an Amazon ebook, but I strongly recommend spending the bucks (currently $20.49) for the printed version.
+
+Then there are the items described in the [Kitchen Essentials](#essentials) section - a kitchen scale, a bench knife,  proofing baskets, and a dutch oven/roasting pan.  I already had the roasting pan, but I needed to buy the rest.  As I recall, the total cost of those items was something on the order of $60.
+
+
+
+#### My method
+
+What I describe below is a bare bones set of instructions for making this bread.  The book provides much more detail, along with copious illustrations.  You might also want to watch [this video](https://youtu.be/fBDmPOZ_FJk?list=FLQh2uXeVOD3hCYVa6ueNFkA) to see the process in action.
+
+**The Leaven (or Starter)**
+
+> 1 Tbsp mother starter  
+> 100 gm bread flour  
+> 100 gm whole wheat flour
+> 200 gm. Water
+
+Mix these ingredients and let it rise at room temperature overnight in a container sealed with food service wrap.
+
+**Preparing the Dough**
+
+**Ingredients**
+
+700 + 50 gm. Water (80^o^ F.)  
+200 gm. leaven<sup>*</sup>  
+900 gm. bread flour  
+50 gm. whole wheat flour  
+10 gm. salt  
+
+<sup>*</sup>  This will not be all of the starter.  If you wish, the unused portion can be used to start a new batch of mother starter.
+
+1.  Combine th 700 ml of warm water with the leaven, bread flour, and whole wheat flour in the bowl of your stand mixer.  Mix with the paddle mixer on slow until the flour  is fully hyrdated (about a minute.
+2.  Let the dough stand for 25-40 minutes.
+3.  Transfer the dough to a clean bowl (I use a ceramic one; Robertson recommends a clear plastic container).
+4.  Add the salt and remaining water to the dough, and gently squeeze it in with your hands.
+5.  You should allow for four hours of fermentation.  During the first two hours, gently fold the dough with moistened hands, as described in the recipe for [dinner rolls](#drolls).  You can continue folding during the last two hours, only be extremely gentle.  The dough will have become more elastic, and its bulk will have increased by about 20%.
+
+**Shaping the loaves**
+
+From here on out, the key word is **gently**.  During the rise, the dough will have become much more porous.  We want to retain as much as possible so that the final product will have the light texture we desire.
+
+1.  Turn the dough out onto a very lightly floured work surface.  
+2.  Divide the dough into two equal pieces with your bench knife, and flour the surfaces of each. Fold over the cut side of each so that there is a smooth floured circle on the top.
+4.  Gently shape each piece into a smooth circle, cover them with a kitchen towel, and let them rest for 30 minutes.
+5.  Flip each loaf with your bench knife or a large spatula,  so that the floured side is now down.
+6. For each loaf, perform the following folds:
+    -Fold the third of the dough closest to you over the middle third.
+    -Stretch the dough horizontally to the right and fold the rightmost third over the center.
+    -repeat this process for the left of the dough.
+    -Now fold the rear third of the dough over the middle.  While holding that in place, fold up the front of the dough to create a seam down the middle of what will be the bottom of the loaf.
+    -Gently shape the loaf into an oval, stretching slightly to help seal the seam.
+7.  Now dust your proofing baskets with a 50:50 mixture of white and whole wheat flour.
+8.  Place each loaf into a basket **seam side up**, cover with food service wrap, and refrigerate overnight.
+
+**Baking**
+
+1.  Put your dutch oven or roaster into the oven and preheat it to  500^o^ F.
+2.  While the oven is preheating, remove the first loaf from the refrigerator and dust the surface with rice flour.
+3.  When the oven has preheated, carefully remove the dutch oven from it.  
+4.  Place the loaf into the shallow piece of the dutch oven and score the surface with two lengthwise parallel cuts about 1/4 inch deep.  A serrated knife works well for this.
+5.  Cover the bread with the deeper piece of the dutch oven and return it to your oven.  Reduce the temperature to 450^o^ F. 
+6.  After 20 minutes, carefully remove the upper part of the dutch oven.  You will release a lot of steam at this point, and the loaf should be just lightly browned.
+7.  Bake for an additional 20-25 minutes until the crust is golden brown.  Using a spatula, place it onto a cooling rack.
+8.  Return the dutch oven to the oven and increase the heat to 500^o^ F.
+9.  While the oven is reheating, take the second loaf out of the refrigerator and dust with rice flour, in preparation for repeating steps 3 to 7 above.
 
 <center>
 ![](images/Tartine2.jpeg){width=70%}
 
 
-On the inside, showing the open crumb that results from careful handling of the dough.
+The inside of the finished product, showing the open crumb that results from gentle  handling of the dough.
 
 </center>
 
