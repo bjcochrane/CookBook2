@@ -198,7 +198,7 @@ Then there are the items described in the [Kitchen Essentials](#essentials) sect
 
 What I describe below is a bare bones set of instructions for making this bread.  The book provides much more detail, along with copious illustrations.  You might also want to watch [this video](https://youtu.be/fBDmPOZ_FJk?list=FLQh2uXeVOD3hCYVa6ueNFkA) to see the process in action.
 
-**The Leaven (or Starter)**
+#### The Leaven (or Starter)
 
 > 1 Tbsp mother starter  
 > 100 gm bread flour  
@@ -207,7 +207,7 @@ What I describe below is a bare bones set of instructions for making this bread.
 
 Mix these ingredients and let it rise at room temperature overnight in a container sealed with food service wrap.
 
-**Preparing the Dough**
+#### Preparing the Dough
 
 **Ingredients**
 
@@ -225,7 +225,7 @@ Mix these ingredients and let it rise at room temperature overnight in a contain
 4.  Add the salt and remaining water to the dough, and gently squeeze it in with your hands.
 5.  You should allow for four hours of fermentation.  During the first two hours, gently fold the dough with moistened hands, as described in the recipe for [dinner rolls](#drolls).  You can continue folding during the last two hours, only be extremely gentle.  The dough will have become more elastic, and its bulk will have increased by about 20%.
 
-**Shaping the loaves**
+#### Shaping the loaves
 
 From here on out, the key word is **gently**.  During the rise, the dough will have become much more porous.  We want to retain as much as possible so that the final product will have the light texture we desire.
 
@@ -242,7 +242,7 @@ From here on out, the key word is **gently**.  During the rise, the dough will h
 7.  Now dust your proofing baskets with a 50:50 mixture of white and whole wheat flour.
 8.  Place each loaf into a basket **seam side up**, cover with food service wrap, and refrigerate overnight.
 
-**Baking**
+#### Baking
 
 1.  Put your dutch oven or roaster into the oven and preheat it to  500^o^ F.
 2.  While the oven is preheating, remove the first loaf from the refrigerator and dust the surface with rice flour.
@@ -265,3 +265,87 @@ The inside of the finished product, showing the open crumb that results from gen
 
 
 ### Tartine Baguettes {#baguettes}
+
+This is our second recipe from *Tartine Bread*, one that is similar to the previous one but with a couple of key differences:
+
+1.  It uses both sourdough and commercial yeast starters  in the dough.
+2.  Mixing, rising and baking occur all on the same day.
+
+There are also two ways to bake the bread.  The first is on your baking stone, with a dish towel saturated in water placed in a shallow pan in the oven to create steam - the method in the original recipe.  The second is one I devised - use a suitable cakepan placed on the stone for the bread, and cover it with foil for the first 20 minutes of baking.
+
+#### Starters
+
+**Leaven (sourdough)**
+
+> 1 tbsp. mother starter  
+> 220 gm. all purpose flour  
+> 220 gm water (80^o^ F.)  
+
+**Poolish (commercial yeast**
+
+> 200 gm. all purpose flour
+> 200 gm water (80^o^ F.)
+3 gm. active dry yeast
+
+- Mix the two starters in separate small bowls, cover with food service wrap and place in a warm location overnight.
+
+#### Mixing and Fermenting
+
+400 gm. leaven (all of it)  
+400 gm. poolish (ditto)  
+500 + 25 gm. water (75-80^o^ F.)  
+650 gm. all purpose flour  
+350 gm. bread flour  
+10 gm. salt  
+
+1.  Combine leaven, poolish, 500 gm. of water and both flours in bowl of stand mixer.  Mix with paddle attachment at low speed until all of the flour is hydrated (~1 minute).  Cover with cloth and let stand 30-60 minutes.
+2. Transfer to a clean bowl and add salt and the remaining water. Work them in with your hands.  
+3.  Let the dough rise in a warm place, gently folding every 40 minutes, until the dough becomes puffy and springy (3-4 hours).
+
+#### Shaping
+
+The first decision you will need to make is how many loaves you want to make and when.  I kind of like six, but you can do as few as 2 or as many as 8.  It all depends on the capacity of your oven and your ability to put up with multiple round of baking.  What follows is for six.
+
+And in all candor, I'm still working on the best shaping method.  This is what I've come up with so far.
+
+1.  Place the dough on a lightly floured surface and divide first into two equal pieces, each of which is divided three ways.  If you are only going to bake half of the loaves immediately, put one half in a bowl, cover with food service wrap and refrigerate.
+2. Shape each piece into a rectangle and let it rest for 30 minutes.
+3.  Cover a cookie sheet with a towel and dust it with rice flour.
+3.  For each loaf, do the following:
+    - Position the rectangle with the long side towards you and fold the front third over the middle one.
+    - Stretch the dough so it nearly doubles in length and then fold the rear third back over the middle.
+    - Roll the dough gently with your hands to stretch it further and taper the ends.
+    - Place the loaf on one edge of the  towel seam side up.
+4.  Repeat step 4 for the next loaf.  When you place it on the towel, do so such that a fold of the towel is positioned between it and the previous loaf.
+5.  When all loaves are shaped, cover with another towel and let them rise for 2.5-3 hours,
+
+
+#### Baking
+
+As noted above, there are two methods that can be used.
+
+**On a Stone**
+
+1.  Position your stone on a middle rack.  On a lower rack, place a shallow pan containing a water saturated dish towel.
+2.  Preheat the oven to 500^o^ C.
+3.  Invert the loaves onto a pizza peel and score the loaves with a 2-3 long angled and parallel cuts.
+3.  As soon as the oven reaches temperature, place as many loaves as will fit onto the stone using a pizza peel dusted with rice flour.
+4.  Reduce the temperature to 475^o^ F. and bake for 15 minutes.
+5.  Remove the pan with the towel and continue to bake for 15-25 minutes, until the baguettes are golden brown.  Reomove from the oven and place loaves on a cooling rack.
+6.  Repeat steps 2 through five as many times as necessary to bake all of your baguettes.
+
+**In a pan**
+
+1.  Preheat your oven to 500^o^ F, with your stone positioned on a middle rack
+2.  Invert the loaves onto a large (9 X 13 in. or larger) cake pan. Score the loaves as above   Cover with aluminum foil.  
+3.  Place the pan onto the baking stone in the oven, lower the temperature to 475^o^ F.  and bake for 20 minutes.
+4.  Remove the foil and continue to bake for another 15-25 minutes, until the loves are a rich golden brown.
+5.  Place bake loaves on a cooling rack.
+6.  Repeat the above as needed to bake all of the loaves.
+
+<center>
+![](images/baguettes-final.jpeg){width=60%}
+
+The final product.  In this case, the dough was divided into eight loaves and all were baked on a pizza steel (method 1)  on the same day.
+
+</center>
