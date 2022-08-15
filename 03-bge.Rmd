@@ -1,21 +1,23 @@
-# Big Green Egg {#bge}
+# Grilling and Barbecuing {#bge}
 
-So what is a Big Green Egg?  A more generic name is a komodo cooker - a heavy duty ceramic charcoal cooker, shaped like the ubiquitous Weber Cooker, but much heavier and more expensive.  If your budget can afford it, I recommend spending the bucks for an Egg, especially if you anticipate doing a lot of low temperature barbecuing.  It is much easier to control the temperature than in a Weber-style device, and a load of charcoal goes a lot longer (an 18 hour barbecue of pork butt or brisket can be completed on a single generous charcoal load).  Also, with proper handling, one will last forever, so that while the upfront costs are a challenge, over time you may end up saving money - in my prior life, I found that metal cookers had a lifespan of something like 3-5 years.
+As I mentioned earlier, I am a Big Green Egg addict.  So what is it?  A more generic name is a komodo cooker - a heavy duty ceramic charcoal cooker, shaped like the ubiquitous Weber Cooker, but much heavier and more expensive.  If your budget can afford it, I recommend spending the bucks for an Egg, especially if you anticipate doing a lot of low temperature barbecuing.  It is much easier to control the temperature than in a Weber-style device, and a load of charcoal goes a lot longer (an 18 hour barbecue of pork butt or brisket can be completed on a single generous charcoal load).  Also, with proper handling, one will last forever, so that while the upfront costs are a challenge, over time you may end up saving money - in my prior life, I found that metal cookers had a lifespan of something like 3-5 years.
 
-With respect to what size to get, I strongly recommend the large (original) Egg.  As I mentioned earlier, we started with a medium (recommended for cooking for 2) but quickly found it to be overly constraining - I could barely fir four ears of [corn on the cob](#corn) into it.  Furthermore, you can forget grilling multiple different items at the same time.  
+With respect to what size to get, I strongly recommend the large (original) Egg.  As I mentioned earlier, we started with a medium (recommended for cooking for 2) but quickly found it to be overly constraining - I could barely fit four ears of [corn on the cob](#corn) into it.  Furthermore, you can forget grilling multiple different items at the same time.  
 
 >Note that there is an extra large model, which is huge.  If you have a big family or are a grilling fanatic, you might want to consider it, but is is far larger than anything I can foresee ever needing.  
+
+Finally, don't look for a bargain online.  They are sold only through authorized dealers.  By buying from one, your Egg will come with a lifetime guarantee on the ceramic parts,
 
 ## Charcoal and Lighting
 
 There are two cardinal rules regarding what to use in a Green Egg:
 
 1.  **NEVER use lighter fluid.  It will soak into the ceramic and ruin your investment.**
-2.  **Only use lump charcoal, not briquets, essentially for the same reason.**
+2.  **Only use lump charcoal, not briquets, essentially for the same reason, but also to improve the flavor of just about everything.**
 
 The instructions for you Egg will recommend that you only use "genuine Big Green Egg Charcoal".  Ignore that advice.  Yes, BGE charcoal is high quality, but a) it is expensive, and b) it may be hard to find.  I have been using supermarket-branded lump charcoal for years and have found it to be quite satisfactory.
 
-With respect to lighting, most sources recommend using a chimney, in which you mix some charcoal and some paper.  The paper is ignited, and when the charcoal is burning, the chimney is removed and more charcoal is added as needed.  I'll be honest - I've never tried this.  Rather, I load the charcoal into the egg, insert 2-3 paraffin-saturated composit sticks into it, and then ignite them.  With this method, I reliably get a nice bed of hot coals in 10-15 minutes.
+With respect to lighting, most sources recommend using a chimney, in which you mix some charcoal and some paper.  The paper is ignited, and when the charcoal is burning, the chimney is removed and more charcoal is added as needed.  I'll be honest - I've never tried this.  Rather, I load the charcoal into the egg, insert 2-3 paraffin-saturated composite sticks into it, and then ignite them.  With this method, I reliably get a nice bed of hot coals in 10-15 minutes.
 
 ## Accessories
 
@@ -31,15 +33,17 @@ There is, of course, a bunch of other stuff you will want to have, such as a gri
 
 ### Temperature Control
 
-One of the great advantages of the Big Green Egg is that, with a little practice, you can control the temperature when the lid is closed.  The question is how.  They come with a dome thermometer, but they are notoriously inaccurate.  So what to use in its place?  
+One of the great advantages of the Big Green Egg is that, with a little practice, you can control the temperature when the lid is closed (which for me is most of the time.  The question is how.  They come with a dome thermometer, but they are notoriously inaccurate.  So what to use in its place?  
 
 There are two temperatures that really matter, especially when barbecuing.  The first is the **grill temperature**; the second is the **internal temperature** of what you are cooking.  And because you don't want to be opening and closing the lid any more than necessary, it is valuable to have a **remote monitoring system** for both.
+
+> Big Green Eggs come with a dome thermometer, but they are notoriously inaccurate.  I ignore it most of the time.  
 
 For all matters of temperature and time, I am a big fan of [Thermoworks](https://www.thermoworks.com/).  Not only do they make high quality devices, but their website is an excellent source of recipes, ones we will be referring to frequently.  If you sign up for their newsletter, you will receive only one email a day.  Some of them are purely promotional, but others contain links to recipes you may want to explore.  These are their devices I've used over the past decade or so, ranging from the most basic to the most elaborate.
 
 1.  [The ChefAlarm Thermometer and Timer](https://www.thermoworks.com/chefalarm/) was my first device, and it is very useful for indoor cooking.  It will monitor a single temperature and has both time monitoring and high and low temperature alarms.  It comes with a single probe for monitoring internal temperatures, meaning that it can't be used to monitor both internal and grill temperatures.  In addition, it does not have remote monitoring (Bluetooth or WiFi) capabilities.  
-2.  So, if you want to go further, there are two items to start with.  The first is a **standalone timer**.  While Thermoworks is in the business of selling temperature controlled devices, it also offers an excellent selection of time monitoring devices.  My personal favorite is [the Extra Big and Loud Timer](https://www.thermoworks.com/extra-big-loud/) - it is very simple and straightforward to use.  Of course all kinds of timers can be had at grocery stores, kitchen stores, etc., so if you already have one of those (or wish to save money by buying one) that is a perfectly fine option.
-3.  The second is an **instant read thermometer**,  a step up in the sophistication scale.  If you have an internal monitoring device, it only reads the temperature in one spot; other spots in the item cooking may be hotter or cooler.  The best device on the market right now is the [Thermopen One](https://www.thermoworks.com/thermapen-one/), which has a one second response time.  The [Classic Thermopen](https://www.thermoworks.com/classic-thermapen/) is also a fine option, having a response time of 2-3 seconds, and which is about $20 less expensive.
+2.  If you don't go with the previous device, you will need a  **standalone timer**.  While Thermoworks is in the business of selling temperature controlled devices, it also offers an excellent selection of time monitoring devices.  My personal favorite is [the Extra Big and Loud Timer](https://www.thermoworks.com/extra-big-loud/) - it is very simple and straightforward to use.  Of course all kinds of timers can be had at grocery stores, kitchen stores, etc., so if you already have one of those (or wish to save money by buying one) that is a perfectly fine option.
+3.  I strongly recommend an **instant read thermometer**.  If you have an internal monitoring device, it only reads the temperature in one spot; other spots in the item cooking may be hotter or cooler.  The best device on the market right now is the [Thermopen One](https://www.thermoworks.com/thermapen-one/), which has a one second response time.  The [Classic Thermopen](https://www.thermoworks.com/classic-thermapen/) is also a fine option, having a response time of 2-3 seconds, and which is about $20 less expensive. 
 4.  Now we get into the heavy duty stuff - **multiple channel devices with remote monitoring capabilities**.  I've already addressed why multiple channel monitoring is important (for both grill and internal monitoring); we sometimes can use one or two additional channels (such as grilling or barbecuing poultry, where keeping track of both thigh and breast temperatures are important).  Thermoworks has two options to be considered.  The first is the [Smoke](https://www.thermoworks.com/search.php?search_query=smoke) series of devices.  The most inexpensive ($99 at time of writing) has two channels and basic blutetooth capabilities, and comes with one internal and one grill temperature probe.  Moving up in sophistication (and price) are the Smoke X2 and Smoke X4, both of which use longer distance RF transmission and have 2 and 4 channels respectively. But the absolute best (and what I use exclusively) is the [Signals](https://www.thermoworks.com/signals/) bluetooth and wifi device.  It can be controlled by a reasonably functional smart phone app, and with it connected to your WiFi network, you can actually monitor temperatures from anywhere in the world.  That may seem silly, but when you're doing a 16 hour barbecue of a brisket or a pork butt, that may prove to be useful - you will not be tied to your home for the duration. Indeed, when you use a temperature control device (see below) you can actually make adjustments to the cooking temperature from afar.
 5.  Of course, **probes** are an essential part of any temperature monitoring system.  All of the above devices come with an adequate selection of probes, but there are a large number of different ones available.  One I use a lot is a [High Temperature Needle Probe](https://www.thermoworks.com/tx-1015x-n2/), which is shorter, making it ideal for monitoring small or thin items like chicken wings or fish.  Also, although I was skeptical at first, I have found [Probe Spools](https://www.thermoworks.com/silicone-probe-spool/) to be an incredible convenience.  They all but eliminate tangling and kinking, things that can greatly reduce probe lifetimes.
 6.  So far we've dealt with temperature monitoring, but what about **Temperature Control**?  We are now at the ultimate high end of sophistication.  The device for doing so is the [Billows Temperature Control Fan](https://www.thermoworks.com/billows/), a fan that attaches to the lower vent of a barbecue device and, in combination with a Smoke or a Signals device, does its best to control the chamber temperature.  I always use it for low temperature cooking, and if I do so carefully, it is a godsend.  BUT, two caveats:  
@@ -76,6 +80,25 @@ My temperature monitoring and control kit.  Clockwise from top:  Skewers, wiring
 
 ### Chicken
 
+Chicken is, of course, incredibly versatile, and like pork or beef, it can benefit from low temperature cooking (see recipes in the [Barbecue](#bbq) section.  But sometimes, you may want to cook up some chicken pieces for a quick dinner.  As with most chicken recipes, I greatly prefer thighs - they are much more forgiving, in that unlike white meat, they don't dry out if they are cooked to too high a temperature.  Here's a very basic but versatile recipe.
+
+##Ingredients##
+
+> Four bone-in chicken thighs  
+> olive oil  
+> kosher salt  
+> milled black pepper  
+> ~1/2 cup your favorite barbecue sauce  
+
+1.  Light your grill and heat it to 450^o^ F.  
+2.  Rub the surface of the chicken pieces with the olive oil and sprinkle with salt and pepper.  
+3.  Grill the chicken for ~15 minutes, turning every 3-4 minutes.
+4.  Brush both sides of the chicken with barbecue sauce and return to the grill.
+5.  After 2 minutes, brush the chicken with more barbecue sauce, flip, and brush the second side as well.
+6.  Repeat this process 1-2 more times, until the barbecue sauce is gone and/or the internal temperature of the thighs has reached 170^o^ F. (155^o^ for white meat).
+
+Note that this recipe goes very well with the next recipe for corn on the cob.  If you choose to do both, grill the chicken first, put it in a foil-covered bowl, and then grill the corn.
+
 ### Corn on the cob {#corn}  
 
 I am fortunate enough to have grown up in sweet corn country.  Indeed, one of my fondest childhood memories is, when we were visiting family friends on a farm in Macedon NY, the children (including me) were sent out in the field to pick fresh corn for the day's dinner.  From the field to the pot in 10 minutes - absolutely delicious!  Unfortunately, I then spent a big chunk of my life in Florida, and corn there simply doesn't measure up to what I grew up with.  Thus, it was absolutely wonder to discover, when I moved to Ohio in July of 2007 (peak corn season) that the corn here measures up to what I remember as a child.
@@ -94,7 +117,7 @@ So here's my method for cooking corn on the grill.  I'm not sure where I got the
 
 1.  Peel the husks back (do NOT remove them) and discard silks.
 2.  Place corn into a large kettle of water and let soak for at least an hour.
-3.  Remove the corn from the water, baste with melted butter, and sprinkle with pepper, Parmesan (if desired) and any other flavors you might like (dill is a popular one.
+3.  Remove the corn from the water, baste with melted butter, and sprinkle with pepper, Parmesan (if desired) and any other flavors you might like (dill is a popular one). A half a stick of butter is sufficient for four ears.
 4.  Cut one ~8 inch piece of twine for each ear.  Wet them in water to make them easier to tie.
 5.  Fold the husks up over the corn and tie together with twine.
 6.  Place the corn on your grill preheated to 450^o^ and roast a total of 10 minutes, rotating the ears every 2.5 minutes.
@@ -102,6 +125,10 @@ So here's my method for cooking corn on the grill.  I'm not sure where I got the
 8.  Serve with just about anything.
 
 <center>
+
+![](images/corn-soaking.jpeg){width=50%}
+
+Four ears of corn soaking with the husks pulled back and the silks removed.
 
 ![ ](images/cornongrill.jpeg){width=50%}
 
@@ -133,21 +160,21 @@ This recipe was originally one designed for the Instant Pot, but it is really ea
 > 1 onion  
 > Splash of  red wine  
 > 1 lime, cut into wedges   
-> Flour tortillas.
+> Flour tortillas
 
 2.  Coat the beef with a tablespoon of fajita seasoning and the splash of red wine. Marinate for 30 min to an hour. 
-1. Slice the vegetables and add the remaining sasoning
-3.  Place the meat  in a grill basket and cook over a medium hot (450^o^ F.) grill until browned, about 3-5 minutes. Remove and set aside
+1. Slice the vegetables and add the remaining seasoning.
+3.  Place the meat  in a grill basket and cook over a medium hot (450^o^ F.) grill until browned, about 3-5 minutes. Remove and set aside.
 4.  Add the vegetables to the basket and cook for about 10 minutes, until vegetables are cooked through.
 6.  Add the meat to the mixture and cook for another 5-10 minutes.
-7.  In your kitchen, briefly warm the tortillas on a frying pan over medium heat.  Place in a basket and cover with a kitchen towel.
+7.  In your kitchen, briefly warm the tortillas eitheron a frying pan over medium heat or by toasting briefly (1-2 minutes) in a toaster oven.  Place in a basket and cover with a kitchen towel.
 8.  Serve the tortillas, filling and lime wedges for people to put together for guests to serve themselves. If desired, add your favorite hot sauce and/or sour cream (not my favorite).
 
 <sup>*</sup>There are plenty good choices of fajita seasonings out there.  If you choose to make your own, here is the [recipe that I use](https://littlesunnykitchen.com/fajita-seasoning/).  If you are an instant pot user, you can find the original recipe [here](https://www.theinstantpottable.com/instant-pot-steak-fajitas/).
 
 ### Korean Chicken Skewers
 
-This is another recipe from [*Southern Living](and is absolutely delicious and pretty easy to  prepare.  I cook these on metal skewers that are about 12 inches long and have a flat shape, so that the skewered food is easier to handle.
+This is a recipe from [*Southern Living*](https://www.southernliving.com/recipes/honey-butter-chicken-skewers) and is absolutely delicious and pretty easy to  prepare.  I cook these on metal skewers that are about 12 inches long and have a flat shape, so that the skewered food is easier to handle.
 
 **Ingredients**
 
@@ -159,7 +186,7 @@ This is another recipe from [*Southern Living](and is absolutely delicious and p
 > 2 lb boneless skinless thighs, cut into 1 inch cubes  
 > 1 large red onion, cut into wedges
 
-1. Prepare your grill for direct cooking at 450^o^ F,
+1. Prepare your grill for direct cooking at 450^o^ F.
 2.  Melt the butter on the stovetop over medium low heat.  
 3.  Add the garlic and cook for about two minutes.
 4.  Add the salt, vinegar and 2 Tbsp soy sauce, bring to a boil, and cook for about 2 minutes.  
@@ -169,6 +196,40 @@ This is another recipe from [*Southern Living](and is absolutely delicious and p
 8.  Serve over rice or bucatini.
 
 
+
+
+### Grilled Shrimp
+
+I agree with Bubba in *Forrest Gump* - you can do just about anything with shrimp.  Furthermore, they can be cooked easily and rapidly (the big danger is overcooking).  As for grilling, there are lots of possibilities - [allrecipes.com](https://www.allrecipes.com/gallery/best-grilled-shrimp-recipes/) provides 18 recipes for doing so.  Here's the one I've settled on.
+
+**Ingredients**
+
+> 1/2 cup  butter
+> 1 shallot, minced  
+> 4 cloves garlic, peeled and minced  
+> 1/4 tsp red pepper  
+> 1 tsp. paprika  
+> 0.5-1 lb. large (16/20) shrimp, peeled and deveined  
+> 1 lemon, quartered  
+
+1.  Light your grill and bring it to about 450^o^ F.
+2.  Soak  3-6 wooden skewers in water for at least 20 minutes
+1.  Melt the butter over low heat.
+2.  Add the shallot, garlic, paprika and red pepper.  Simmer 2 minutes
+3. Place the shrimp on skewers (3-4 shrimp on each) and brush liberally with the butter mixture.
+4. Grill for a total of four minutes, surning once.  The shimp should now have a pinkish tinge.
+5. Serve over pasta, with any remaining butter mix mixed in.  Squeeze 2 lemon quarters over each serving.
+
+<center>
+![](images/Shrimp1.jpeg){width=40%}&nbsp;![](images/Shrimp2.jpeg){width=40%}
+
+Shrimp on skewers, before and after grilling
+
+![](images/Shrimp3.jpeg){width=80%}
+
+Ready to eat.
+
+</center>
 
 ## Barbecuing {#bbq}
 
@@ -277,7 +338,7 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 
 #### Chicken Wings
 
-What's not to love about chicken wings?  Aside from the fact that they are messy to eat, they are very tasty, either by themselves or (as is more common) dipped in one of many different wing sauces.  Of course, wings are often broiled or fryed, but I have found that slow cookin on the barbecue works very well.  My preference is for wings that have been sectioned prior to cooking, but that is not necessary if you prefer keeping them whole.
+What's not to love about chicken wings?  Aside from the fact that they are messy to eat, they are very tasty, either by themselves or (as is more common) dipped in one of many different wing sauces.  Of course, wings are often broiled or fried, but I have found that slow cooking on the barbecue works very well.  My preference is for wings that have been sectioned prior to cooking, but that is not necessary if you prefer keeping them whole.
 
 **Ingredients**
 
@@ -306,5 +367,39 @@ What's not to love about chicken wings?  Aside from the fact that they are messy
 
 The recipe given calls for the wings to be marinated in the first five ingredients for an hour, after which they are cooked as described above.  I'm sure this mix would also work if the wings were to be dipped in it after cooking rather than before.  Either way, the scallions and sesame seeds are sprinkled on the cooked wings before serving.
 
+#### Margarita Brined Chicken
+
+This recipe was originally published in [*Southern Living*](https://www.myrecipes.com/recipe/margarita-brined-chicken) and called for high temperature grilling. However, I found that low temperature direct grilling works extremely well.  As always, I use thighs, but if you are using breast meat, simply change the pull temperature from 170^o^ to 155^o^ F.  And it's a great recipe to prepare for company - while on the grill it requires very little attention, so you can mingle with your friends instead of being chained to the grill.
+
+**Ingredients**
+
+> 1 cup water  
+> ¼ cup kosher salt  
+> 2 tablespoons light brown sugar  
+> 1 cup cold water  
+> ½ cup tequila  
+> 3 tablespoons orange zest  
+> ½ cup fresh orange juice  
+> 3 tablespoons lime zest  
+> 1 tablespoon whole black peppercorns  
+> 6 bone-in chicken pieces (thighs, drumsticks or breast halves)  
+> 2 tablespoons olive oil  
+> teaspoon kosher salt  
+> ½ teaspoon freshly ground black pepper    
+> 6 limes, halved  
+> Fresh cilantro for garnish  
+
+1.  Add water, salt and brown sugar to a saucepan and bring to a boil, stirring regularly until the sugar and salt are dissolved.  
+2.  Pour the mixture into a large bowl, let stand 10 minutes, and then add cold water, tequila, orange zest, orange juice, lime zest and black peppercorns to it.
+3.  Submerge the chicken in the brine mixture, cover the bowl, and let it marinate refrigerated at least 6 hours or overnight.
+4.  Set up your grill for low temperature cooking at 230^o^ F.
+5.  Remove the chicken and pat it dry.  Discard the brine mixture.
+6.  Brush with olive oil and sprinkle with salt and pepper.  Let the chicken stand at room temperature for 20 minutes.
+7.  Place the chicken on the grill, with a temperature monitoring probe placed in the largest of the pieces.
+8.  Grill, turning occasionally until the internal temperatures reach 155^o^ F. for white meat or 170 ^o^ F. for dark meat.
+9.  For the last 5 or so minutes, grill the lime halves, cut side down.
+10.  Place the chicken on a platter, cut the lime halves in two and place on the platter.  Garnish with fresh cilantro.
 
 ### Fish
+
+#### Smoked Salmon

@@ -1,3 +1,26 @@
-`r if (knitr:::is_html_output()) '
-# References {-}
-'`
+# References {#References}
+
+## Books
+
+## Online
+
+Like so much of the internet, many cooking sites that used to be free are now paywalled.  Nevertheless, I've had a lot of success Googling dishes I'd like to try, and over the years, I've found a few sites that come up repeatedly.  Furthermore, there are a few payrolled sites that are worth the bucks to access.
+
+### Free Sites
+
+#### Bread
+
+#### Grilling and Barbecue
+
+[Hey Grill, Hey](https://heygrillhey.com/).  OK, it's a stupid name, but it has lots of great recipes.  It also sells things like rubs and sauces, however I've never tried them,
+
+The [Thermoworks blog](https://blog.thermoworks.com/) is one of my regular go-to sources - I've cited it multiple times, especially in the [barbecue section](#bbq).  Of course their objective is to sell as many of their devices as possible, but the recipes are great even with just a small set of temperature monitoring devices.
+
+
+#### General cooking
+
+### Paywalled Sites
+
+In my view, the best site going right now is is [New York Times Cooking](https://cooking.nytimes.com/).  I have access to it as part of my "all access" Times subscription (\$10/month).  If, unlike me, you do not wish to be depressed by the morning news,   you can get a [standalone subscription](https://www.nytimes.com/subscription/cooking) for \$5.00/month or $40.00 per year.
+
+[Epicurious](https://www.epicurious.com/) is long-established site, containing recipes from the Condé Nast publications *Bon Apetit* and *Gourmet*.  I used to be completely free, but recently such access has become rather limited.  The standard cost of a subscription is $40.00 per year; currently they are offering a \$10.00 discount for the first year for new subscribers. 
