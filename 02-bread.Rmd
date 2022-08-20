@@ -95,6 +95,8 @@ The normal recharge procedure is as follows:
     refrigerator. I do recommend labeling the container with the date it
     was made.
 
+\newpage
+
 ## Recipes
 
 ### Pan au Levain {#pal}
@@ -106,6 +108,8 @@ proofing, shaping and baking. I think you will be more than pleased with
 the results.
 
 ### Pizza Dough {#pizzadough}
+
+\newpage
 
 ### Sourdough Rolls {#rolls}
 
@@ -218,6 +222,8 @@ rolls with dinner!
 4.  Preheat your oven to 375^o^ F. Brush the surface of the rolls with
     melted butter and bake 25-30 minutes until golden brown.
 
+\newpage
+
 ### Parmesan Bubble Loaf
 
 This is a combination of three recipes, the [dinner roll](#drolls)
@@ -281,6 +287,8 @@ The final product
 </center>
 
 ### Ciabatta rolls
+
+\newpage
 
 ### Essential Tartine Bread {#tartines}
 
@@ -422,6 +430,8 @@ The inside of the finished product, showing the open crumb that results
 from gentle handling of the dough.
 
 </center>
+
+\newpage
 
 ### Tartine Baguettes {#baguettes}
 
