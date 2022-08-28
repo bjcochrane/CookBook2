@@ -396,7 +396,7 @@ This recipe was originally published in [*Southern Living*](https://www.myrecipe
 
 I really like duck, mainly because it is all dark meat. Not only does that (at least to me) taste better, but also cooking is a bit easier than chicken, in that the bird has a single pull temperature (160^o^ F.) The downside, however, is that duck contains LOTS of fat, that needs to be rendered. Also, don't count on more than two servings per bird.
 
-*Ingredients*
+**Ingredients**
 
 > 1.5-2 lb. duck\
 > 1/3 cup kosher salt\
@@ -414,11 +414,57 @@ I really like duck, mainly because it is all dark meat. Not only does that (at l
 8.  At this point, I usually find that the duck is ready to eat. If so, remove it from the grill, let it stand 15 minutes, and carve. If you want, drizzle the meat with any remaining basting liquid.
 9.  If, after reaching temperature, the duck is not sufficiently crisp and/or the fat is not completely rendered, transfer it to your oven and broil for 2-3 minutes.
 
+#### Smoked Spatchcocked Turkey
+
+What can be more traditional than turkey with the trimmings for Thanksgiving? As a child and as a younger adult, I had it on almost a yearly basis. Now, I only do it on the rare occasions that we have company - otherwise, I get to eat all of it myself, and leftovers do get old!
+
+Smoke certainly adds a nice touch to the turkey, and slow cooking helps to keep the meat moist (as does dry brining the bird). The challenge is in reaching two different pull temperatures - 150^o^ F. for white meat and 170^o^ for dark. This is where spatchcocking - removing the backbone and pressing the bird as flat as possible - comes into play. Doing so allows heat to penetrate the bird more evenly, so that it is easier to reach a uniform pull temperature. Of course, by doing so you lose the ability to make a grand entrance into the dining room with a golden brown bird, but what is more important, image or substance?
+
+The recipe below can be found on [seriouseats.com](https://www.seriouseats.com/spice-rubbed-butterflied-smoked-turkey-food-lab-recipe). It is optimized for a standard kettle cooker, so if that's what you have, you should follow their grilling instructions. For Big Green Egg cooking, we'll make a couple of changes:
+
+-   Of course we'll use lump charcoal, not briquets, as was recommended.\
+-   In place of indirect cooking, we'll use our convEGGtor.
+- The original recipe calls for adding additional wood to the coals as the turkey cooks.  This is, of course, very difficult to do with a convEGGtor in place, and quite frankly can result in a turkey that tastes more like wood smoke than anything else.  Four chunks, well mixed into the coals, will provide smoke for about 2 hours, more than enough to flavor the bird sufficiently.
+
+I also strongly recommend fresh turkey if available (I've gotten mine straight off the farm). The meat will be juicier, and if you can find it from a local farm, you will be supporting their business. I usually shoot for a 14 pound bird - smaller ones tend to dry out and larger ones are suitable only for very large families or get-togethers.
+
+**Ingredients**
+
+> 1 12- to 16-pound turkey\
+> 2 tablespoons (35g) kosher salt\
+> 1 tablespoon olive oil\
+> 1 tablespoon paprika\
+> 1 teaspoon smoked paprika\
+> 1/2 teaspoon freshly ground black pepper\
+> 1/2 teaspoon ground yellow mustard seeds\
+> 1/2 teaspoon ground coriander seeds\
+> 1/2 teaspoon ground cumin seeds\
+> 1/4 teaspoon ground cayenne pepper\
+> 1 teaspoon granulated garlic powder\
+> 1 teaspoon granulated onion powder\
+> 1 teaspoon ground sage\
+> 2 tablespoons (40g) light brown sugar\
+> 1 tablespoon baking powder  
+
+*Preparing and dry-brining*
+
+1.  1-3 days before cooking, remove the turkey's backbone by cutting on either side of it with either poultry shears, a cleaver, or a heavy carving knife.
+2.  Remove the wishbone with a paring knife and discard.  Place the bird on a flat surface and press hard on the breast to crack the bone and flatten the bird.
+3.  Rub the surface of the bird with olive oil.
+4.  Mix all of the remaining ingredients (the spices) together and rub over the entire surface of the turkey.  Refrigerate, covered, at least overnight and up to three days.
+
+*Barbecuing*
+
+1.  Prepare your grill for cooking with the convEGGtor in place, adding soaked hickory chunks and setting a smoking temperature of ~250^o^ F.
+2.  Place internal temperature probes into the breast and the thickest part of a thigh of the turkey.
+3.  Place on the grill, legs pointing down, and cook until the breast temperature reaches 150^o^ and the thigh one 165^o^ F.  This will take around three hours.
+4.  Remove from the grill, let it rest 15 minutes, and carve.
+
 ### Fish
 
 #### Smoked Salmon
 
-Salmon is probably the most widely consumed fish in America today. In truth, however, it is not exactly my favorite. EXCEPT when it is fresh caught pacific salmon or it is smoked Pacific salmon (I've never tried smoking Atlantic varieties). A few years ago I ventured forth on smoking my own, and actually came up with a recipe that drew rave reviews at a party, including from my old friend Lee, who is an avid fisherman and pretty much a go to expert on cooking fish.
+Salmon is probably the most widely consumed fish in America today. In truth, however, it is not exactly my favorite. EXCEPT when it is fresh caught pacific salmon (as in at a dockside restaurant in Seattle) or it is smoked Pacific salmon (I've never tried smoking Atlantic varieties). These include sockeye (the most commonly found), coho, and (for a luxury treat) king salmon. A few years ago I ventured forth on smoking my own, and actually came up with a recipe that drew rave reviews at a party, including from my old friend Lee, who is an avid fisherman and pretty much a go to expert on cooking fish.
 
 A couple of points before we begin. First, this is one place in which the wood used for smoking really matters. And alder is definitely the way to go. It may be a bit hard to find, but it is worth the hunt.
 
@@ -427,12 +473,14 @@ Second, the overnight dry brining is critical. The spices in the brine add some 
 Finally, temperature control here is tricky. The grill temperature used, 160^o^ F., is the lowest of any we use in this book. A few tips may help:
 
 -   Keep the amount of charcoal and wood to a minimum.
--   Just as soon as the flame from the starter dies down, add the smoking wood sand set up your Billows device set to 160^o^ F. If you do not have one, turn both vents down to the smallest possible openings.
+-   Just as soon as the flame from the starter dies down, add the smoking wood and set up your Billows device set to 160^o^ F. If you do not have one, turn both vents down to the smallest possible openings.
 -   Even if the grill temperature does drift upwards, as long as you monitor the internal temperature and pull the fish when it hits 125^o^ F., you will have an excellent piece of fish to share with friends.
 
 Note that I have only used this for Pacific Salmon, which tends to be more expensive than Atlantic salmon and is sometimes hard to find. Some day I'll smoke a piece of Atlantic fish just to see how it turns out.
 
-*Ingredients*
+This recipe comes from [Delishably](https://delishably.com/meat-dishes/Smoked-Salmon-on-the-Big-Green-Egg-Kamado-Smoking) and is optimized for Big Green Egg cooking.  My only bone to pick with the recipe is the pull temperature - they recommend 160^o^ F.; to me, that makes the fish overly dry and, if anything, too flaky.  
+
+**Ingredients**
 
 > 1 pacific salmon filet, 1-1.5 lb.\
 > 1 cup brown sugar\
