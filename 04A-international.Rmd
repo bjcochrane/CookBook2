@@ -6,6 +6,45 @@ In each of the following sections, I begin with a section on ingredients.  It tu
 
 ## Indian
 
+Let me make a confession up front - I've never managed to make Indian food that is as good as you can get at many standard Indian restaurants.  Indeed it is for that reason that periodically I make a run to Dayton, 40 miles away, to stock up at [Amar Indian Restaurant](https://www.amarindiadayton.com/), an excellent source.  Nevertheless, there are a few recipes I've had some success with.
+
+### Ajwain Chicken
+
+This is one that Amar used to serve but removed it from their menue a few years ago.  I found [this suitable substitute](sharingplate.com/chicken-curry-with-carom-seeds-nanoos-chicken/).  It's a fair amount of work, but the result is worth the effort.
+
+**Ingredients**
+
+*For the marinade*
+
+4-6 skinless bone-in chicken thighs  
+1 cup yogurt (avoid low fat)  
+1 tsp salt  
+1 tbsp garam masala  
+1 tbsp ajwain seeds  
+
+*For preparation*
+
+1/4 cup olive oil  
+1 cinnamon stick
+3 black cardamom pods  
+3 whole cloves  
+1 tbsp cumin seeds  
+1 large onion, sliced  
+4 cloves garlic, sliced  
+2" piece of ginger, peeled and sliced  
+1 tsp turmeric  
+3/4 tsp red pepper flakes  
+1 cup chicken stock
+
+1.  Mix the marinade ingredients, add the chicken, and let it marinate overnight.
+2. Heat the oil in a large skillet.  Add cinnamon, cardamom, cumin seeds, and red pepper flakes.
+3.  Once the spices begin to sizzle (about 30 seconds) add the onion and saute for about 10 minutes, until the onions are softened and reduced in size by about a half. 
+4.  Add the ginger and garlic and continue to sauté for another 5 minutes.
+5.  Add the turmeric, followed by the chicken and sauté for about 20 minutes, turning occasionally
+6.  Add the chicken stock and cook on low heat for 40-50 minutes
+
+Serve with rice.
+
 ## Spanish
 
 <center>
@@ -56,7 +95,7 @@ This is another grilled recipe, one that can be used either as a tapa or, with r
 > 1 tsp dried oregano
 > 1 tsp [ras el hanut](#ras)  
 > 1 clove garlic, minced  
-1 tsp red pepper flakes, or to taste
+1 tsp red pepper flakes, or to taste  
 1 bay leaf, crumbled  
 1 tsp black pepper  
 0-2 tsp sea salt (to taste)
@@ -106,7 +145,7 @@ This is a very flavorful Moroccan mixture, one that also turns up in Spanish dis
 1/2 tsp ground white pepper  
 1/2 tsp ground coriander  
 1/2 tsp ground red pepper  
-1/2 tsp ground coriander seed
+1/2 tsp ground coriander seed  
 1/2 tsp ground allspice  
 1/2 tsp ground nutmeg  
 1/4 tsp ground cloves  
