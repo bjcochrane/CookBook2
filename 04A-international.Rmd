@@ -55,13 +55,13 @@ La Boqueria in Barcelona, which bills itself as "The greatest food market in the
 
 </center>
 
-I first got interested in Spanish cooking when I visited my son in Barcelona (ok, actually in Catelonia) a decade ago.  Barcelona is a great city in many ways, but what I enjoyed most about the food were the ubiquitous tapas restaurants.  My favorite experience was at one in Old Town (I don't remember the name) that we went to for a light supper after having spent a day in nearby Tarragona and eating a late lunch there.  At this place, all of the tapas contained toothpicks, and you selected the ones you wanted to eat. After eating, a server came by, counted your toothpicks, and billed accordingly.
+I first got interested in Spanish cooking when I visited my son in Barcelona (ok, actually in Catalonia) a decade ago.  Barcelona is a great city in many ways, but what I enjoyed most about the food were the ubiquitous tapas restaurants.  My favorite experience was at one in Old Town (I don't remember the name) that we went to for a light supper after having spent a day in nearby Tarragona and eating a late lunch there.  At this place, all of the tapas contained toothpicks, and you selected the ones you wanted to eat. After eating, a server came by, counted your toothpicks, and billed accordingly.
 
-Compared to Indian food, Spanish food is quite mild.  However, it is quite flavorful, and it incorporates ones found in both African and European cooking.
+Compared to Indian food, Spanish food is quite mild.  However, that doesn't mean it isn't flavorful, and it incorporates elements found in both African and European cooking.
 
 [La Tienda](http://www.latienda.com) is a great source for both ingredients and recipes.  Most of those that follow are from that source.  All of these can be served as tapas (think summer party) or as a meal.
 
-### Grilled Shrimp in Serrano Ham
+### Grilled Shrimp in Serrano Ham {spshrimp}
 
 Spanish ham is nothing like the domestic ham I grew up with - you need to try it to appreciate its unique flavors.  I am fortunate enough to have a local source (Jungle Jim's north of Cincinnati), but you can also purchase it from La Tienda (although their shipping charges are steep).
 
@@ -114,7 +114,7 @@ This is another grilled recipe, one that can be used either as a tapa or, with r
 1 onion, chopped  
 5 cloves garlic, minced  
 2 tbsp hot smoked paprika  
-1 tbsp hot paprika  
+1 tsp hot paprika  
 1/4 tsp cayenne pepper    
 1 14.5 oz can fire roasted diced tomatoes  
 2-3 roasted piquillo peppers  
