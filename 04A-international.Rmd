@@ -61,7 +61,7 @@ Compared to Indian food, Spanish food is quite mild.  However, that doesn't mean
 
 [La Tienda](http://www.latienda.com) is a great source for both ingredients and recipes.  Most of those that follow are from that source.  All of these can be served as tapas (think summer party) or as a meal.
 
-### Grilled Shrimp in Serrano Ham {spshrimp}
+### Grilled Shrimp in Serrano Ham {#spshrimp}
 
 Spanish ham is nothing like the domestic ham I grew up with - you need to try it to appreciate its unique flavors.  I am fortunate enough to have a local source (Jungle Jim's north of Cincinnati), but you can also purchase it from La Tienda (although their shipping charges are steep).
 
@@ -80,6 +80,11 @@ salt and ppepper to taste
 4.  Wrap each shrimp with a 2 inch piece of the jamon and place on a skewer.  If you are using wooden ones, be sure you have soaked them for at least 20 minutes prior to use.
 5.  Place on grill and cook for 1-2 minutes per side, until the shrimp are opaque and the ham has crisp edges.
 6.  Serve immediately.
+
+Note that his recipe could be prepared with sea scallops (the big ones) as well.  If so:
+
+1.  After wrapping the scallops, use two soaked wooden skewers to hold 3 together.  Brush with olive oil
+2.  Grill at 425^o^ F. for 3-4 minutes on each side, until the internal temperature reaches 130^o^ F.  Be careful not to overcook.
 
 ### [Pork Kebabs](https://www.tienda.com/recipes/pork-kebabs.html)
 
