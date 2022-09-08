@@ -6,11 +6,11 @@ In each of the following sections, I begin with a section on ingredients.  It tu
 
 ## Indian
 
-Let me make a confession up front - I've never managed to make Indian food that is as good as you can get at many standard Indian restaurants.  Indeed it is for that reason that periodically I make a run to Dayton, 40 miles away, to stock up at [Amar Indian Restaurant](https://www.amarindiadayton.com/), an excellent source.  Nevertheless, there are a few recipes I've had some success with.
+Let me make a confession up front - I've never managed to make Indian food that is as good as you can get at many standard Indian restaurants.  Indeed it is for that reason that periodically I make a run to Dayton, 40 miles away, to stock up at [Amar Indian Restaurant](https://www.amarindiadayton.com/), an excellent source.  Nevertheless, there are a few recipes I've had some success with. My go-to  source for them is *1000 Indian Recipes*, by Neelam Batra; unless otherwise specified, this is where recipes originated.
 
 ### Ajwain Chicken
 
-This is one that Amar used to serve but removed it from their menue a few years ago.  I found [this suitable substitute](sharingplate.com/chicken-curry-with-carom-seeds-nanoos-chicken/).  It's a fair amount of work, but the result is worth the effort.
+This is one that Amar used to serve but removed it from their menu a few years ago.  I found [this suitable substitute](sharingplate.com/chicken-curry-with-carom-seeds-nanoos-chicken/).  It's a fair amount of work, but the result is worth the effort.
 
 **Ingredients**
 
@@ -44,6 +44,33 @@ This is one that Amar used to serve but removed it from their menue a few years 
 6.  Add the chicken stock and cook on low heat for 40-50 minutes
 
 Serve with rice.
+
+### Chile Fry (Bhuna Murchi Murgh){#chilefry}
+
+This is one I particularly like - as Indian recipes go, it's relatively straightforward.  This is actually a southern India dish, so it is quite distinct from the northern Indian cuisine with which we are most familiar.  The sesame oil is a key ingredient.
+
+**Ingredients**
+
+> 2 tbsp peanut oil  
+1 tbsp Asian sesame oil  
+5-7 dried chiles  
+2 1 inch pieces of peeled ginger, cut into matchsticks  
+1-2 medium onions, chopped  
+1 large clove garlic, minced  
+1/2 tsp paprika  
+2  lb skinless chicken thighs, cut in half through the bone  
+1 cup fresh cilantro, including soft stems  
+1/4 cup white vinegar  
+~1/2 cup water  
+salt and pepper, to taste  
+
+1.  Heat the oils in a large pan and add the peppers and ginger.  Stir until lightly browned, about two minutes.
+2.  Add the onions and cook until browned, about 15 minutes.
+3.  Add garlic, paprika and chicken and cook, stirring occasionally, until the chicken is browned, about 5 minutes.
+4.  Add the cilantro, water, vinegar, salt and  pepper.  
+5.  Cook over high heat until it comes to a boil and then reduce heat to medium.
+6.  Cook uncovered for about 20 minutes, until most of the liquid has evaporated.
+7.  Serve with rice.  
 
 ## Spanish
 
