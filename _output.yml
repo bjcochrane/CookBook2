@@ -1,0 +1,20 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: section
+  config:
+    toc:
+      css: toc.css
+      collapse: none
+      before: |
+        <li><a href="./">Cooking After Retirement</a></li>
+      after: |
+        <li><a href="./">Last Published on `r format(Sys.Date(),format="%B %d %Y")`</a></li>
+    download: ["pdf", "epub"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: default
+bookdown::bs4_book: default
