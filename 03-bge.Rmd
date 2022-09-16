@@ -535,7 +535,7 @@ This recipe, from [Hey Grill Hey](https://heygrillhey.com/smoked-duck/#wprm-reci
 
 Salmon is probably the most widely consumed fish in America today. In truth, however, it is not exactly my favorite. EXCEPT when it is fresh caught pacific salmon (as in at a dockside restaurant in Seattle) or it is smoked Pacific salmon (I've never tried smoking Atlantic varieties). These include sockeye (the most commonly found), coho, and (for a luxury treat) king salmon. A few years ago I ventured forth on smoking my own, and actually came up with a recipe that drew rave reviews at a party, including from my old friend Lee, who is an avid fisherman and pretty much a go to expert on cooking fish.
 
-A couple of points before we begin. First, this is one place in which the wood used for smoking really matters. And alder is definitely the way to go. It may be a bit hard to find, but it is worth the hunt.
+A couple of points before we begin. First, this is one place in which the wood used for smoking really matters. And alder is definitely the way to go. It may be a bit hard to find, but it is worth the hunt. And in addition, since the cooking time is relatively short (1-2 hours), I recommend chips rather than chunks.  The will generate a lot of smoke right away and will be burned out by the time cooking is complete.
 
 Second, the overnight dry brining is critical. The spices in the brine add some flavor, but what is most important is that the salt acts to dehydrate the fish and remove some of the more unpleasant fishy flavor.
 
@@ -543,7 +543,7 @@ Finally, temperature control here is tricky. The grill temperature used, 160^o^ 
 
 -   Keep the amount of charcoal and wood to a minimum.
 -   Just as soon as the flame from the starter dies down, add the smoking wood and set up your Billows device set to 160^o^ F. If you do not have one, turn both vents down to the smallest possible openings.
--   Even if the grill temperature does drift upwards, as long as you monitor the internal temperature and pull the fish when it hits 125^o^ F., you will have an excellent piece of fish to share with friends.
+-   Even if the grill temperature does drift upwards, as long as you monitor the internal temperature and pull the fish when it hits 135^o^ F., you will have an excellent piece of fish to share with friends.
 
 Note that I have only used this for Pacific Salmon, which tends to be more expensive than Atlantic salmon and is sometimes hard to find. Some day I'll smoke a piece of Atlantic fish just to see how it turns out.
 
@@ -566,6 +566,6 @@ This recipe comes from [Delishably](https://delishably.com/meat-dishes/Smoked-Sa
 5.  Pat it dry and return it to the refrigerator for about an hour.
 6.  About 45 minutes after you return the fish to the refrigerator, prepare your grill for smoking, with the convEGGector in place. You will want to place an aluminum drip pan on its surface.
 7.  When the coals are going and the wood added, insert a needle probe into the fish and place it on the grill. Close the grill and leave it closed! There is no need to do anything to the fish while it is smoking.
-8.  When the internal temperature reaches 125^o^ F., remove the fish to a platter and let it cool.
+8.  When the internal temperature reaches 135^o^ F., remove the fish to a platter and let it cool.
 
 This is, of course, best served as an appetizer with some sort of lightly salted and flavored crackers. It will keep in the refrigerator for at least a week.
