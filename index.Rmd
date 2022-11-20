@@ -24,7 +24,7 @@ This book was prepared using the [Rstudio](http://www.rstudio.com) [bookdown](ht
 
 Among other features, this combination of tools makes it relatively easy to insert images, although its ability to position them and add fancy features is (at least in my hands) rather limited. Thus, most of the figures are at the end of subsections, and panels contain no more than two images. Also, again for the sake of convenience, I took most of the photos with my iphone. I tried to compose the image somewhat, but some of them are a bit on the crude side.
 
-This book is a work in progress, so feel free to check back often.  The date below is that on which the most recent version was published.
+I've made most of the recipes herein multiple times, but occasionally I will enter an untested one. When I do prepare it, there is a good chance I will adjust it.  If so, I will change the recipe and usually include a note as to why the change has been made.  Thus, this book is a work in progress, so feel free to check back often.  The date below is that on which the most recent version was published.
 
 <center>
 *Updated `r format(Sys.Date(),format="%B %d %Y")`*

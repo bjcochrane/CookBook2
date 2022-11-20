@@ -81,7 +81,7 @@ My temperature monitoring and control kit. Clockwise from top: Skewers, wiring f
 
 Chicken is, of course, incredibly versatile, and like pork or beef, it can benefit from low temperature cooking (see recipes in the [Barbecue](#bbq) section. But sometimes, you may want to cook up some chicken pieces for a quick dinner. As with most chicken recipes, I greatly prefer thighs - they are much more forgiving, in that unlike white meat, they don't dry out if they are cooked to too high a temperature. Here's a very basic but versatile recipe.
 
-##Ingredients##
+**Ingredients**
 
 > Four bone-in chicken thighs\
 > olive oil\
@@ -147,7 +147,7 @@ Ready for the compost pile.
 
 </center>
 
-### Fajitas
+### Beef Fajitas {#beeffajitas}
 
 This recipe was originally one designed for the Instant Pot, but it is really easy to prepare it on a grill. It can also be prepared on the stove top, substituting a heavy frying pan for the grill basket.
 
@@ -186,6 +186,34 @@ Mix everything together and store in an air tight container. Paprika, cayenne, a
 
 If you are an instant pot user, you can find the original recipe [here](https://www.theinstantpottable.com/instant-pot-steak-fajitas/).
 
+### Chicken Fajitas/Tacos<sup>*</sup>
+
+This is an untested recipe from New York Times commentator Jamelle Bouie.  He recommends adding guacamole to the final product; do so according to your taste.
+
+**Ingredients**
+
+>1 cup dark Mexican beer  
+2 tbsp sesame oil  
+2-3 cloves garlic, chopped  
+1 tsp dried oregano  
+1 tsp kosher salt  
+1/2 tsp freshly ground black pepper  
+1/4 tsp ground cayenne pepper  
+6 boneless skinless chicken thighs  
+guacamole to taste  
+(optional) Sautéd onions and peppers    
+flour or corn tortillas  
+
+1.  Mix all of the ingredients except for the last four.
+2.  Add the chicken thighs (intact) to the mixture, cover, and let marinate for at least two hours and up to overnight.
+3.  Prepare your grill for direct cooking at 450 ^o^ F.
+4.  Grill the chicken until browned, about 4-5 minutes per side.
+5.  Let the chicken rest for at least 5 minutes and then cut into strips for use in fajitas or tortillas
+6.  Warm the tortillas, either on the grill or in a toaster oven, for 1-2 minutes
+7.  Add guacomle and/or sautéd vegetables to the tortillas and cover with chicken strips for serving.
+
+<sup>*</sup>As an alternative to this recipe, I'm sure that  the recipe for [Beef Fajitas](#beeffajitas) would work as well, only the chicken would be sliced prior to seasoning and cooking, and grilling would be in a basket.
+
 ### Korean Chicken Skewers
 
 This is a recipe from [*Southern Living*](https://www.southernliving.com/recipes/honey-butter-chicken-skewers) and is absolutely delicious and pretty easy to prepare. I cook these on metal skewers that are about 12 inches long and have a flat shape, so that the skewered food is easier to handle.
@@ -194,7 +222,9 @@ This is a recipe from [*Southern Living*](https://www.southernliving.com/recipes
 
 > 1/2 cup unsalted butter\
 > 2 garlic cloves, peeled and grated\
-> 1/3 cup honey 1 tsp kosher salt 1 tsp rice vinegar\
+> 1/3 cup honey  
+1 tsp kosher salt  
+1 tsp rice vinegar\
 > 2 lb boneless skinless thighs, cut into 1 inch cubes\
 > 1 large red onion, cut into wedges
 
@@ -310,7 +340,7 @@ This is one that showed up in my inbox from [Thermoworks](https://blog.thermowor
 5.  Use your instant read thermometer to check for doneness.
 6.  For ease of slicing, put roast in the refrigerator overnight.
 
-#### Pork ribs
+#### Pork ribs{#ribs}
 
 There are, of course, a variety of cuts of ribs out there - we will concentrate on "St. Louis" ribs, cooked "wet" (that is, finished with barbecue sauce).  Because ribs are high in connective tissue, they need to be cook to a high enough internal temperature for the tough collagen to be converted to gelatin.  We also have to overcome the "stall", when at about 160^o^ F. water is release from the meat and slow the temperature increase as a result of evaporative cooling.
 
@@ -366,6 +396,34 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 8.  Cover the pan with foil, insert an internal temperature probe into one of the wings through the foil.
 9.  Cook until the internal temperature reaches 200^o^. Verify with your instant read thermometer.
 10. Allow wings to rest 10-15 minutes and then serve.
+
+#### Candied Ribs/Pork Wings
+
+This recipe comes from [Thermoworks](https://blog.thermoworks.com/pork/wide-cut-pork-ribs-recipe) And calls for "wide ribs" - basically St. Louis ribs cut into two rib sections.  It occurs to me, however, that it would also work well with pig wings.  The recipe below uses "wings"; the original post describes how to process ribs.
+
+**Ingredients**
+
+> pig wings  
+> 3-4 tbsp barbecue rub  
+> barbcue sauce (as both a binder and a baste)  
+> Rib candy^\*^ or alternative syrupy sauce (honey, maple syrup, etc.)  
+
+1.  The day befor cooking, brush wings with barbecue sauce and apply rub.  Refrigerate overnight.
+2.  Set up your smoker to a temperature of 225^o^ F. 
+3.  Place the wings in the smoker with a needle probe in one and a grill temperature monitor in place.
+4.  When the internal temperature reaches 180 ^o^ F., glaze the wings with a 2:1  mixture of barbecue sauce and syrup.^\*\*^
+5.  Continue cooking until the internal temperature reaches 195^o^ F.  Remove and serve.
+
+^\*^  This is a commercial product available from multiple online sources, including [this one](https://www.thebbqsuperstore.com/product_p/tp-sce-a05.htm).
+
+^\*\*^having now cooked this once, I would modify it along the lines of [3-2-1 ribs](#ribs),as follows
+
+1.  Hook over indirect heat until the internal temperature reaches about 150^o^ F.
+2.  Wrap with foil or butcher paper and continue cooking, increasing the grill temperture to 275^o^ F., until internal temperature reaches 180^o^ F.
+3.  Unwrap, baste thoroughly with sauce mixture, and continue cooking until the internal temperature reaches 195^o^ F.  You may want to baste it once or twice more during this time.
+
+Total cooking time is about 6 hours, and the results are spectacular.
+
 
 ### Poultry
 
