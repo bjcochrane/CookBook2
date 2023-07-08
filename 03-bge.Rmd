@@ -186,9 +186,9 @@ Mix everything together and store in an air tight container. Paprika, cayenne, a
 
 If you are an instant pot user, you can find the original recipe [here](https://www.theinstantpottable.com/instant-pot-steak-fajitas/).
 
-### Chicken Fajitas/Tacos<sup>*</sup>
+### Chicken Fajitas/Tacos{#chfajitas}
 
-This is an untested recipe from New York Times commentator Jamelle Bouie.  He recommends adding guacamole to the final product; do so according to your taste.
+This is a recipe from New York Times commentator Jamelle Bouie.  He recommends adding guacamole to the final product; do so according to your taste.
 
 **Ingredients**
 
@@ -210,9 +210,9 @@ flour or corn tortillas
 4.  Grill the chicken until browned, about 4-5 minutes per side.
 5.  Let the chicken rest for at least 5 minutes and then cut into strips for use in fajitas or tortillas
 6.  Warm the tortillas, either on the grill or in a toaster oven, for 1-2 minutes
-7.  Add guacomle and/or sautéd vegetables to the tortillas and cover with chicken strips for serving.
+7.  Add guacamole and/or sautéd vegetables to the tortillas and cover with chicken strips for serving.
 
-<sup>*</sup>As an alternative to this recipe, I'm sure that  the recipe for [Beef Fajitas](#beeffajitas) would work as well, only the chicken would be sliced prior to seasoning and cooking, and grilling would be in a basket.
+As an alternative to this recipe, I'm sure that  the recipe for [Beef Fajitas](#beeffajitas) would work as well, only the chicken would be sliced prior to seasoning and cooking, and grilling would be in a basket.
 
 ### Korean Chicken Skewers
 
@@ -267,18 +267,55 @@ Here's the recipe I've settled on.  You may also want to try [shrimp wrapped in 
 Shrimp on skewers, before and after grilling
 
 ![](images/Shrimp3.jpeg){width="80%"}
+</center>
 
-Ready to eat.
+### [Elk Burger](https://blog.thermoworks.com/beef/grilled-elk-burgers/){target="_blank"}
+
+I hadn't eaten elk in nearly 50 years, but I remember it fondly.  The partner of a friend had the good fortune of bagging one and thus had a LOT of meat to share.  I, being a low paid VISTA volunteer at the time, jumped at this free food opportunity, and I didn't have cause to regret it.
+
+Recently, Thermoworks posted this interesting recipe, one that uses a novel cooking - grilling indirect until the burger is partially cooked and then doing so directly until it is done.  I tried it, and it was wonderful.  Inde ed, while I don't eat hamburgers much anymore, if I do so in the future, I'm going to use this approach.
+
+But how does one do indirect cooking on a Green Egg?  A little searching on Amazon led me to [this device](https://www.amazon.com/dp/B07THJG18S?psc=1&ref=ppx_yo2ov_dt_b_product_details){target="_blank"}. It's a bit pricey, but it works like a charm for the purpose.  It also results in improved air circulation and thus cleaner burning charcoal.
+
+<center>
+![](./images/BGEDivided.jpeg){width=50%}
+
+Big Green Egg set up for indirect and direct cooking.  A single elk burger is on the indirect side, and grill and internal temperature probes are in place.
 
 </center>
 
+**Ingredients**
+
+> 1 lb ground elk, divided into three patties  
+> salt and pepper  
+> 3 kaiser rolls or hamburger buns  
+> cheese and condiments, as desired  
+
+1.  Load charcoal in one side of the divider and ignite.  When they are burning, close the lid and monitor the temparture until it reaches 450^o^ F.
+2.  While the charcoal is igniting, apply salt and pepper to the patties to taste.  I found that lots of pepper and just a little salt works well.
+3.  If necessary, slice the rolls in half.
+4.  Insert a needle probe  into the side of one of the burgers.  Place them on the indirect cooking side of the Green Egg and close the lid.
+5.  When the internal temperature reaches 120^o^ F, switch them to the direct side, and place the rolls on the indirect side, face down.
+6.  Grill the burgers, flipping every 40 seconds or so, until the internal temperature reaches 160^o^ F, monitoring with a handheld probe.  This takes about 2-3 minutes.
+7.  When they are done, check the rolls - they should be lightly toasted.
+8.  If using cheese, return the burgers to the indirect side when they reach 150^o^ F. and let them stand until the cheese is melted.  
+9.  Apply your favorite toppings and eat!
+Ready to eat.
+
+### [Grilled Lobster](https://blog.thermoworks.com/bbq-grilling/grill-lobster/){target="_blank"}
+
 ## Barbecuing {#bbq}
 
-### Some Basics
+So the predominant advice on most barbecue recipes is "low and slow".  This makes sense, since the original Caribbean *barbacoa" was performed in a charcoal filled pit in the ground.  More importantly, it gives time for the meat to take up the smoke flavor.  Accordingly, most of the recipes here call for maintaining a temperature between 200 and 250^o^ F.  But of course that also means that cook times can be quite long - as much as 18 hours for a packer brisket or a full Boston butt roast.  So plan ahead!
 
-### Beef and Pork
+With that in mind, here are a few points to consider:
 
-#### [Brisket Style Tritip](https://blog.thermoworks.com/beef/brisket-style-tri-tip/) {#tritip}
+1.  You've put  your internal temperature monitor into your brisket or butt, the grill temperature is stable, and the internal temperature is rising steadily.  UNTIL it reaches 160 or so.  Then it just sits there, possibly for hours.  This is the infamous "stall" that occurs when liquid in the meat starts evaporating, causing evaporative cooling.  At that point, you have two choices - either wait it out, or wrap the meat in foil or "peach paper", essentially unwaxed butcher paper.  I prefer the latter for a couple of reasons.  First of all, at this point the meat has absorbed all of the smoke it's going to.  Second, the meat is less likely to dry out as it rises to the magic end point of 203^o^ F.  And, of course, it saves time
+2.  Even if you are cooking for a large family, it is doubtful that a full packer brisket will be devoured on the first sitting.  So how to reheat leftovers?  Thermoworks [recommends a *sous vide* approach](https://blog.thermoworks.com/thermometer/how-to-reheat-bbq/){target="_blank"}, in which frozen leftover barbecue is placed in a ziploc bag and immersed in a water bath maintained at 175^o^ F. until the internal temperature reaches 165^o^ F.  This something that can easily be done with a *sous vide* wand or an InstantPot®, but the link above describes how it can be accomplished with a pot of water on the stove top.
+
+
+
+### [Brisket Style Tritip](https://blog.thermoworks.com/beef/brisket-style-tri-tip/) {#tritip}
 
 This is a great place to start in your barbecue adventure. Unlike a brisket, it is a small piece of meat, more suitable for 1-2 people (although it will yield up multuple servings. Furthermore, the cook time is reasonable (6-7 hours), and leftovers will keep in the refrigerator for days.
 
@@ -287,7 +324,7 @@ Ingredients:
 > 2-3 pound Tri-tip roast\
 > Your favorite beef barbecue rub (I use [Penzey's Barbecue 3000](https://www.penzeys.com/online-catalog/bbq-3000/c-24/p-327/pd-s)\
 > 3-4 Oak or Hickory Wood Chunks\
-> Orange Butcher paper (available at [Lowes](http://www.lowes.com))
+> Peach paper (available at [Lowes](http://www.lowes.com))
 
 1.  Soak the wood chunks in water for at least 30 minutes.
 2.  Load the barbecue with charcoal and add two Fire Starter Sticks. Ignite.
@@ -323,7 +360,7 @@ Cooked and sliced.
 
 </center>
 
-#### Roast beef for sandwiches
+### Roast beef for sandwiches
 
 This is one that showed up in my inbox from [Thermoworks](https://blog.thermoworks.com/blog/homemade-deli-style-roast-beef/). I haven't tried it yet, but I'm betting it will work well barbecued on the grill. Note that the original recipe calls for a preliminary sear; I'm betting that smoking without the convEGGtor will get the job done.
 
@@ -340,7 +377,7 @@ This is one that showed up in my inbox from [Thermoworks](https://blog.thermowor
 5.  Use your instant read thermometer to check for doneness.
 6.  For ease of slicing, put roast in the refrigerator overnight.
 
-#### Pork ribs{#ribs}
+### Pork ribs{#ribs}
 
 There are, of course, a variety of cuts of ribs out there - we will concentrate on "St. Louis" ribs, cooked "wet" (that is, finished with barbecue sauce).  Because ribs are high in connective tissue, they need to be cook to a high enough internal temperature for the tough collagen to be converted to gelatin.  We also have to overcome the "stall", when at about 160^o^ F. water is release from the meat and slow the temperature increase as a result of evaporative cooling.
 
@@ -365,7 +402,8 @@ The following so-called [3-2-1 cooking](https://heygrillhey.com/3-2-1-ribs-perfe
 5.  Sprinkle the ribs with brown sugar, and distribute the butter as multiple pats on the surface.  Raise the sides of the aluminum foil to form a boat and add the apple cider or juice.
 6.  Wrap the foil tightly around the ribs, reinsert the internal temperature probe, and return to the barbecue.  Maintain at 225 ^o^ F. for two hours.
 7.  Unwrap the ribs and baste them on both sides with barbecue sauce.  Continue cooking for one hour, flipping and basting occasionally.  The final internal temperature should be 200-205^o^ F.
-#### [Pig Wings](https://blog.thermoworks.com/bbq-grilling/pig-wings/)
+
+### [Pig Wings](https://blog.thermoworks.com/bbq-grilling/pig-wings/)
 
 Despite the fact that we live near Cincinnati, home of the Flying Pig Marathon, these are not made from avian porcines. Rather, they are partially deboned and trimmed pork shanks, prepared with a sauce similar to traditional buffalo wing sauce. The meat may be available from a local butcher shop; online it can be had at [Porter Road](https://porterroad.com/) in Nashville (a great source of meat, but expensive, with high shipping costs). Alternatively, you may be able to get properly trimmed pork shanks from your local butcher shop.
 
@@ -397,7 +435,7 @@ Like brisket or pork butt, shanks are full of connective tissue that must be bro
 9.  Cook until the internal temperature reaches 200^o^. Verify with your instant read thermometer.
 10. Allow wings to rest 10-15 minutes and then serve.
 
-#### Candied Ribs/Pork Wings
+### Candied Ribs/Pork Wings
 
 This recipe comes from [Thermoworks](https://blog.thermoworks.com/pork/wide-cut-pork-ribs-recipe) And calls for "wide ribs" - basically St. Louis ribs cut into two rib sections.  It occurs to me, however, that it would also work well with pig wings.  The recipe below uses "wings"; the original post describes how to process ribs.
 
@@ -411,23 +449,20 @@ This recipe comes from [Thermoworks](https://blog.thermoworks.com/pork/wide-cut-
 1.  The day befor cooking, brush wings with barbecue sauce and apply rub.  Refrigerate overnight.
 2.  Set up your smoker to a temperature of 225^o^ F. 
 3.  Place the wings in the smoker with a needle probe in one and a grill temperature monitor in place.
-4.  When the internal temperature reaches 180 ^o^ F., glaze the wings with a 2:1  mixture of barbecue sauce and syrup.^\*\*^
-5.  Continue cooking until the internal temperature reaches 195^o^ F.  Remove and serve.
+4.  When the internal temperature reaches 200^o^ F., glaze the wings with a 2:1  mixture of barbecue sauce and syrup.^\*\*^
+5.  Continue cooking for an additional hour, turning and basting occasionally.  Remove and serve.
 
 ^\*^  This is a commercial product available from multiple online sources, including [this one](https://www.thebbqsuperstore.com/product_p/tp-sce-a05.htm).
 
 ^\*\*^having now cooked this once, I would modify it along the lines of [3-2-1 ribs](#ribs),as follows
 
 1.  Hook over indirect heat until the internal temperature reaches about 150^o^ F.
-2.  Wrap with foil or butcher paper and continue cooking, increasing the grill temperture to 275^o^ F., until internal temperature reaches 180^o^ F.
-3.  Unwrap, baste thoroughly with sauce mixture, and continue cooking until the internal temperature reaches 195^o^ F.  You may want to baste it once or twice more during this time.
+2.  Wrap with foil or butcher paper and continue cooking, increasing the grill temperture to 275^o^ F., until internal temperature reaches 195-200^o^ F.
+3.  Unwrap, baste thoroughly with sauce mixture, and continue cooking for an additional hour, turning and basting occasionally.
 
 Total cooking time is about 6 hours, and the results are spectacular.
 
-
-### Poultry
-
-#### Chicken Wings
+### Chicken Wings
 
 What's not to love about chicken wings? Aside from the fact that they are messy to eat, they are very tasty, either by themselves or (as is more common) dipped in one of many different wing sauces. Of course, wings are often broiled or fried, but I have found that slow cooking on the barbecue works very well. My preference is for wings that have been sectioned prior to cooking, but that is not necessary if you prefer keeping them whole.
 
@@ -446,7 +481,18 @@ What's not to love about chicken wings? Aside from the fact that they are messy 
 6.  While they are continuing to cook, melt the butter and stir in the hot sauce.
 7.  When the internal temperature reaches 165^o^, remove the wings, stir in with the hot sauce mix, and serve.
 
-<sup>\*</sup> Given my western New York heritage, I am partial to Buffalo style wings. Of course there are hundreds of commercial sauces available; I actually use one I get from an Amish market in Adams County Ohio. A more widely available alternative is [Tabasco Bufalo Style Hot Sauce](https://www.tabasco.com/hot-sauces/buffalo-style-hot-sauce/). Alternatively there are lots of recipes for making your own, either Buffalo style or your favorite alternative. One that I like is [Korean barbecue ribs](https://www.tabasco.com/hot-sauces/buffalo-style-hot-sauce/) published recently in *Southern Living*:
+<sup>\*</sup> Given my western New York heritage, I am partial to Buffalo style wings. Of course there are hundreds of commercial sauces available; I actually use one I get from an Amish market in Adams County Ohio.  A more widely available alternative is [Tabasco Bufalo Style Hot Sauce](https://www.tabasco.com/hot-sauces/buffalo-style-hot-sauce/).  However, it is ridiculously easy to make Buffalo sauce from scratch.  This one, from [Serious Eats]() is excellent:
+
+> 2/3 cups hot sauce (Franks works well in my hands)  
+> 1/2 cup butter  
+> 1/4 tsp Worcestershire sauce  
+> 1/4 tsp cayenne pepper (or to taste)  
+> 1/4 tsp garlic powder  
+> 1.5 tbsp white vinegar  
+
+Combine all ingredients in a saucepan and heat over low heat until the butter melts.  Coat wings with sauce and enjoy.  The recipe makes about enough sauce for 10-12 whole wings.
+
+Of course there are lots of other styles of wing sauce.  One that I like is [Korean barbecue ribs](https://www.southernliving.com/recipes/spicy-grilled-chicken-wings)  published recently in *Southern Living*:
 
 > 1/2 cup gochujang (available in the Asian section of most food stores or at specialty markets)\
 > 2 tbsp sesame oil\
@@ -457,9 +503,9 @@ What's not to love about chicken wings? Aside from the fact that they are messy 
 
 The recipe given calls for the wings to be marinated in the first five ingredients for an hour, after which they are cooked as described above. I'm sure this mix would also work if the wings were to be dipped in it after cooking rather than before. Either way, the scallions and sesame seeds are sprinkled on the cooked wings before serving.
 
-\newpage
+Still looking for ideas?  Check out this [compendium of wing recipes](https://www.epicurious.com/recipes-menus/our-best-chicken-wing-recipes-gallery) from Epicurious.
 
-#### Margarita Brined Chicken
+### Margarita Brined Chicken
 
 This recipe was originally published in [*Southern Living*](https://www.myrecipes.com/recipe/margarita-brined-chicken) and called for high temperature grilling. However, I found that low temperature direct grilling works extremely well. As always, I use thighs, but if you are using breast meat, simply change the pull temperature from 170^o^ to 155^o^ F. And it's a great recipe to prepare for company - while on the grill it requires very little attention, so you can mingle with your friends instead of being chained to the grill.
 
@@ -492,29 +538,8 @@ This recipe was originally published in [*Southern Living*](https://www.myrecipe
 9.  For the last 5 or so minutes, grill the lime halves, cut side down.
 10. Place the chicken on a platter, cut the lime halves in two and place on the platter. Garnish with fresh cilantro.
 
-#### Smoked Duck
 
-I really like duck, mainly because it is all dark meat. Not only does that (at least to me) taste better, but also cooking is a bit easier than chicken, in that the bird has a single pull temperature (160^o^ F.) The downside, however, is that duck contains LOTS of fat, that needs to be rendered. Also, don't count on more than two servings per bird.
-
-**Ingredients**
-
-> 1.5-2 lb. duck\
-> 1/3 cup kosher salt\
-> 2 small oranges, halved\
-> 1/2 cup orange juice\
-> 1/2 cup maple syrup
-
-1.  The night before cooking, pierce the duck all over with the sharp end of a skewer or temperature probe, taking care not to penetrate the meat.
-2.  Apply the kosher salt to the surface of the meat and refrigerate for \~15 hours.
-3.  Set up your grill, using soaked maple wood and the convEGGtor, with a target temperature of 275^o^ F. **Do not forget to put in a drip pan**.
-4.  Remove the duck from the refrigerator, wipe off the salt, and pat it dry.
-5.  Fill the duck cavity with orange halves.
-6.  Prepare basting liquid by combining orange juice and maple syrup.
-7.  Smoke the duck, basting occasionally, until it reaches an internal temperature of 160^o^ F.
-8.  At this point, I usually find that the duck is ready to eat. If so, remove it from the grill, let it stand 15 minutes, and carve. If you want, drizzle the meat with any remaining basting liquid.
-9.  If, after reaching temperature, the duck is not sufficiently crisp and/or the fat is not completely rendered, transfer it to your oven and broil for 2-3 minutes.
-
-#### Smoked Spatchcocked Turkey
+### Smoked Spatchcocked Turkey
 
 What can be more traditional than turkey with the trimmings for Thanksgiving? As a child and as a younger adult, I had it on almost a yearly basis. Now, I only do it on the rare occasions that we have company - otherwise, I get to eat all of it myself, and leftovers do get old!
 
@@ -560,7 +585,7 @@ I also strongly recommend fresh turkey if available (I've gotten mine straight o
 3.  Place on the grill, legs pointing down, and cook until the breast temperature reaches 150^o^ and the thigh one 165^o^ F.  This will take around three hours.
 4.  Remove from the grill, let it rest 15 minutes, and carve.
 
-#### Smoked Duck
+### Smoked Duck
 
 If you aren't feeding an army, a great alternative to turkey is duck.  They are much smaller, realistically feeding two diners each, and they are all dark meat (a plus or minus, depending on your taste).  The downside is that they are high in fat that needs to be rendered.  This is where slow cooking on a barbecue is great - most of the fat is rendered during cooking and can be discarded afterwards (or used for cooking other dishes - duck fat is considered a delicacy by many.  Also, like turkey, duck is considerably improved by dry brining over night prior to cooking.
 
@@ -586,10 +611,7 @@ This recipe, from [Hey Grill Hey](https://heygrillhey.com/smoked-duck/#wprm-reci
 5. (Optional)  When the duck is cooked, if the skin is not sufficiently crisp for your taste, place it under a broiler for 2-3 minutes.
 6.  Let the duck stand for 15 minutes.  Carve and serve.
 
-
-### Fish
-
-#### Smoked Salmon
+### Smoked Salmon
 
 Salmon is probably the most widely consumed fish in America today. In truth, however, it is not exactly my favorite. EXCEPT when it is fresh caught pacific salmon (as in at a dockside restaurant in Seattle) or it is smoked Pacific salmon (I've never tried smoking Atlantic varieties). These include sockeye (the most commonly found), coho, and (for a luxury treat) king salmon. A few years ago I ventured forth on smoking my own, and actually came up with a recipe that drew rave reviews at a party, including from my old friend Lee, who is an avid fisherman and pretty much a go to expert on cooking fish.
 
@@ -599,9 +621,9 @@ Second, the overnight dry brining is critical. The spices in the brine add some 
 
 Finally, temperature control here is tricky. The grill temperature used, 160^o^ F., is the lowest of any we use in this book. A few tips may help:
 
--   Keep the amount of charcoal and wood to a minimum.
--   Just as soon as the flame from the starter dies down, add the smoking wood and set up your Billows device set to 160^o^ F. If you do not have one, turn both vents down to the smallest possible openings.
--   Even if the grill temperature does drift upwards, as long as you monitor the internal temperature and pull the fish when it hits 135^o^ F., you will have an excellent piece of fish to share with friends.
+>   Keep the amount of charcoal and wood to a minimum.  
+Just as soon as the flame from the starter dies down, add the smoking wood and set up your Billows device set to 160^o^ F. If you do not have one, turn both vents down to the smallest possible openings.  
+Even if the grill temperature does drift upwards, as long as you monitor the internal temperature and pull the fish when it hits 135^o^ F., you will have an excellent piece of fish to share with friends.  
 
 Note that I have only used this for Pacific Salmon, which tends to be more expensive than Atlantic salmon and is sometimes hard to find. Some day I'll smoke a piece of Atlantic fish just to see how it turns out.
 

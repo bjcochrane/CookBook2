@@ -1,0 +1,497 @@
+# Instant Pot
+
+OK, so we succombed, partly because I was intrigued, and partly because Alice wants to explore cooking beans in one.  So we bought and Instant Pot® Pro, and have been exploring it for the last few months.  
+
+## Basics
+
+Most of the recipes below employ the basic pressure cooking function of the device.  A couple of general thoughts:
+
+1.  They are incredibly safe - not like the stovetop pressure cookers of bygone days.
+2.  Pressure cookers require steam, and steam requires water.  Thus, be sure what you're cooking has at least 3/4 cups of clear liquid prior to starting.  Otherwise, you run the risk of getting the dreaded "burn" notice.
+3.  Pay attention to the instructions in recipes for the steam release.  During a natural release, the food will go on cooking.  Sometimes this is fine, but otherwise it can be disastrous (for example slow release of a pasta dish will result in mush.
+4.  There is a large and active Instant Pot® facebook group, and the books and recipes of Jeffrey Eisner are a common subject.  I've looked at some of his stuff, and while the basics (preparation, cook times, etc.) are well covered, in general I find the recipes themselves to be rather plain.  And as you should recognize by now, plain food is not my specialty.
+
+So read on for some suggestions.
+
+## Meat
+
+### [Pork Carnitas](https://www.splendidtable.org/story/2019/02/25/pork-carnitas) (Mexican Pulled Pork){target="_blank"} 
+
+The recipe linked to above is great, but it could probably use a little more flavor.  Hence, I went web surfing to see what I could find and came up with [this one](https://www.pressurecookrecipes.com/instant-pot-carnitas){target="_blank"}, from an excellent source, [Amy and Jacky](http://www.pressurecookrecipes.com).  I've left  in the fruit juices from the original recipe and have omitted the chicken stock from the Amy and Jacky version.
+
+**Ingredients**
+
+
+> boneless pork butt or shoulder, 2.5-3 lb., cut into 2 inch cubes   
+4 garlic cloves, crushed  
+1 onion, chopped     
+1 tsp ground cumin  
+1 tsp cinammon  
+1/2 tsp. ground pepper   
+2 bay leaves  
+1 cup freshly squeezed orange juice, from 3 oranges  
+1/4 cup lime juice, from two limes  
+1 tbsp soy sauce   
+1 jalapeno pepper, seeded and chopped  
+
+
+1.  Combine all of the ingredients in the instant pot and let the meat marinade for at least 20 minutes.
+4.  Pressure cook on high for 30 minutes.
+5.  Do a natural release for 15 minutes, after which you can do a quick release of the remaining steam.
+6.  Remove the pork from the IP spread on a sheet pan lined with foil.
+7. (optional) Brown  the meat either  by baking at 425 for 10 minutes or so, flipping the meat half way through (It might also work in your Micropro). Baste the meat with a little of the cooking fluid both at the beginninng and when you flip the meat.
+8.  Shred the meat with two forks.
+8.  Use as a taco filling or as filling for a pulled pork sandwich.  Adding good salsa or pico de gallo (and anything else you think of) adds a lot.
+
+### Birria Tacos
+
+I found this first on [Thermoworks](https://blog.thermoworks.com/beef/birria-tacos-temps/#tasty-recipes-27953-jump-target) and then subsequently for the IP on [Amy and Jacky](https://www.pressurecookrecipes.com/instant-pot-birria/).  The seasonings are quite similar, so here is the second version
+
+**Ingredients**
+
+> ~3 lb chuck roast or other similar cut of beef  
+2 tbsp. oil  
+3 dried ancho chiles  
+3 dried guajillo chiles  
+1 New Mexico dried chile  
+1 dried chile de árbol or morita chile  
+1 sliced onion  
+6 garlic cloves, chopped  
+2 bay leaves  
+1/2 cinammon stick or 1/2 tsp. ground cinammon  
+2 tsp oregano  
+1.5 tsp. ground cumin  
+1 tsp. ground coriander  
+2 tsp. tomato paste  
+2 cups chicken or beef stock  
+2 tbsp apple cider vinegar  
+1 tbsp. soy sauce (optional)  
+1 tbsp. fish sauce (optional)
+
+*For assembly*
+
+> corn tortillas  
+Mexican cheese blend  
+diced onion  
+cilantro, chopped  
+lime slices  
+
+1. Remove stems and seeds from all chiles and then chop into pieces.
+2.  Place peppers in IP an press sauté.  Toast for 4-5 minutes until you can smell the chiles.  Remove and set aside.
+3. Place 1 tbsp. oil into IP. Season meat with salt and pepper and sauté until browned. Remove and set aside.  
+4.  Add more oil to the IP and add the onions.  Sauté for 3-5 minutes and then add garlic, bay leaves, cinammon, oregano, cumin, coriander, and tomato paste.  Sauté for an additional 1-2 minutes.
+5.  Remove mixture from  IP.  Add 1 cup of chicken stock and deglaze.
+6.  Ad vinegar, soy sauce, fish sauce, and another cup of chicken stock to the IP.  Submerge all toasted chiles, add the onion mixture, and layer the beef on top.
+7.  Close the lid, set on sealing position.
+8.  For chuck roast, pressure cook on high for 50 minutes, followed by natural release for 15 minutes,
+9.  Remove the meat to a bowl; discard the cinammon stick and bay leaves.
+10.  Blend the sauce with an immersion blender and shred the meat with two forks.  Add it back to the pot.  
+
+For serving, there are a few possibilities:
+
+1.  Serve it in a bowl with some melted cheese, cilantro and onion sprinkled on top.
+2.  Serve over rice.
+3.  Serve in tortillas.  For this:
+
+> 1.  Dip a tortilla in the birria sauce, cover with mexican cheese, and fry until the cheese melts.  
+2.  Add birria meat, fold, and serve.
+
+I bet this could be done in the Micropro just fine!
+
+#### Notes
+
+1.  For the piece of meat I used, 40 minutes was not quite long enough - it was certainly good (and tasted great) but it did not shred easily.  I'll try 50 next time.
+2.  Flour tortillas don't work - they get too soggy.  I'm going to try it over rice next.
+
+### [Pulled Pork](https://www.lecremedelacrumb.com/instant-pot-bbq-pulled-pork/)
+
+Made this a couple of times in Geneva; not like smoked but a lot easier.
+
+### [Arroz con Pollo](https://pressureluckcooking.com/instant-pot-arroz-con-pollo)
+
+
+A Jeffrey Eisner recipe that I have reduced by half
+
+**Ingredients**
+
+>1 tbsp of olive oil\
+2 tbsp (1/4 stick) of butter\
+Pinch of saffron\ 
+1/2 medium yellow onion, diced\
+1/2 red bell pepper, diced\
+1/2 tbsp of crushed garlic\
+1. lbs of chicken thighs (boneless & skinless preferred), cut into bite-sized pieces\
+2 links of Chorizo, sliced into 1/4″ discs\
+1/2 cup of a dry white wine\ 
+1 cups of chicken broth\
+2 Roma tomatoes, chopped\
+7 oz of Goya Arroz Amarillo/Yellow Rice (plain rice is fine as well)\
+Juice of 1 lime\
+1 tsp of dried parsley\
+1 tsp of smoked or regular paprika\
+1/2 tsp cumin\
+1 tsp chili powder\
+
+1.  Set your IP for saute and melt the butter and oil.
+2.  Add the saffron and sauté for 30 seconds.
+3.  Add the onions and peppers and sauté for 3 minutes,
+4. Add the garlic and sauté for an additional minute.
+5.  Add the chicken and chorizo, followed by the paprika, parsley and chili powder.  Cook stirring, for three minutes until the chicken is evenly seared.
+6.  Add the white wine and simmer for a minute.  Then add the broth, lime juice and tomatoes.  
+7.  Once it is bubbling, add the rice and submerge without stirring.
+8.  Cancel the sauté cycle, close the lid and pressure cook for 10 minutes, followed by a quick release.
+9.  Stir the rice and let sit for 10 minutes before serving.
+
+#### Notes
+
+1.  This was good using the yellow rice called for, however I think I'll try plain basmati rice next time - the yellow rice was too salty for my taste.
+2.  It came out a bit soupy using the liquid called for above.  Some may prefer it that way, but I like mine drier.  Accordingly I reduced the chicken broth to 1 cup from the original 1.25 cups.
+
+### [St Louis Ribs](https://www.365daysofcrockpot.com/instant-pot-slow-cooker-st-louis-baby-back-pork-ribs/)
+
+Again, probably can't compare to smoked ribs, but ease of prep might win out.  And we might want to look at some of our other recipes and see if they could be adapted.
+
+### [Deli-style Roast Beef](https://stuffmattycooks.com/instant-pot-rare-roast-beef/){target="_blank"}
+
+### [Korean Short Ribs](https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-korean-style-short-ribs-5450025){target="_blank"}
+
+
+
+
+[Thermoworks](https://blog.thermoworks.com/beef/korean-shortribs-kalbi/){target="_blank"} has a grill recipe.
+
+#### Notes
+
+1.  The Thermoworks version is excellent.
+2.  These cook very quickly - 5-10 minutes on a 425^o^ F. grill is sufficient.  In fact, it might be easiest to grill them over hot coals with the lid open.
+3.  When I get a fire basket with a divider, I'll try cooking them over the direct side and then transferring them to the indirect side when they reach ~160^o^ F.
+
+
+### Lamb Rogan Josh
+
+This is a dish that I've always enjoyed but have had limited success with cooking it.  Penzey's sells a spice mix that makes for fairly easy preparation, but my results have been so-so.  However, *Indian Instant Pot® Cookbook* by Urvashi Pitre came to the rescue.  This book contains recipes for most standard Indian favorites, but uses ingredients that are by and large easy to find and work with. I recommend it highly.
+
+The following is simple and excellent.
+
+**Ingredients**
+
+> 1 medium sized onion, diced  
+4 cloves garlic, minced  
+1 inch ginger root, peeled and minced  
+1/4 cup plain yogurt (whole milk if you can find it)^\*^  
+2 tbsp tomato paste  
+1 tsp half sharp paprika  
+1 tsp garam masala^\*^  
+1 tsp salt  
+1/2 tsp turmeric  
+1/2 tsp cinnamon  
+1/4 tsp ground nutmeg  
+1/2 tsp cayenne or pepper flakes  
+3/4 cup water, divided  
+1 lb. lamb stew meat  
+
+1.  Combine all of the ingredients except the lamb and 1/2 cup of the water in a small  bowl.
+2.  Add the lamb and stir to get it evenly coated.  Marinate for 2 hours to overnight.
+3.  Place the mixture in the inner pot of your Instant Pot®. Add the additional 1/2 cup of water and pressure cook on high for 20 minutes.
+4.  Allow natural release to occur for 10 minutes, and then vent the remaining steam  and remove the lid.  If the sauce seems too thin, set IP to sauté and cook for a few minutes until the desired consistency is reached.
+
+^\*^  So far I've achieved excellent results using all storebought ingredients.  However, the book contains recipes for both garam masala and IP yogurt.  Both recipes seem straightforward.
+
+### [Lamb Kofta](https://cooking.nytimes.com/recipes/1024079-chicken-kofta-in-tomato-gravy){target="_blank"}
+
+Actually this one calls for ground chicken; I want to try it with lamb.  And a couple of tips from the comments:
+
+1.  Add an egg to the meatball mixture.
+2.  Make the sauce in advance and puree it.
+3.  In IP, try 7 minutes with 5 minutes natural release.
+
+The first attempt was ok, but the cumin was overpowering. Here's how I'll try it next time:
+
+**Ingredients**
+
+>For the Kofta\
+1 pounds ground lamb\
+1/4 cup chopped cilantro (optional)\
+1/4 cup panko bread crumbs\
+1 tablespoons poppy seeds (optional)\
+1/2 tablespoon white or malt vinegar\
+1/2 teaspoons ground cumin \
+1/2 teaspoons fine sea salt\
+1 teaspoons ginger paste or freshly grated ginger\
+1 teaspoons garlic paste or freshly grated garlic\
+1 3/4 teaspoons Kashmiri or other mild red chile powder (or 1 teaspoon red-pepper flakes)\
+1 egg\
+Vegetable or other neutral oil, for greasing hands\
+
+> For the Gravy\
+3 tbsp ghee or neutral oil\
+1 large yellow or red onion, finely chopped\
+1½ teaspoons ginger paste or freshly grated\ ginger
+1½ teaspoons garlic paste or freshly grated garlic\
+1½ teaspoons Kashmiri or other mild red chile powder\
+1/2 teaspoon cumin powder\
+¼ teaspoon turmeric powder\
+4 Roma tomatoes, finely chopped, or 1½ cups canned crushed tomatoes\   
+1 teaspoon fine sea salt, plus more to taste \
+3/4 cups unsalted chicken stock or water\
+4 Thai green chiles, sliced\
+¼ cup full-fat plain Greek yogurt\
+1 teaspoon poppy seeds (optional)\
+½ teaspoon garam masala\
+2 tablespoons roughly chopped cilantro\
+Rice, roti or naan, for serving\
+
+1. Combine all of the meatball  ingredients, except the oil, and shape the mixture into eight balls.  set aside
+2.  Set your instant pot to sauté and add the oil.
+3.  Add the onions and sauté for 5-7 minutes until soft and transluscent.
+4.  Add the red pepper, cumin and turmeric and stir for thirty seconds.
+5.  Add the tomatoes and salt.  Cook for 5-7 minutes.
+6.  Add the chicken stock and chopped peppers.  Bring to a boil and cook for 3-5 minutes to thicken the sauce.
+7.  Hit cancel on the IP.  Remove the inner lining and when boiling has ceased stir in the yogurt.
+8.  Carefully add the meatballs to the sauce and return the liner to the IP.
+9.  Pressure cook for 7 minutes, followed by 5 minutes of natural release.  Vent the remaining steam.
+10.  Serve over rice, garnishing with poppy seeds, garam masala, and/or cilantro as desired.
+
+### [Beef Bourguignon](https://www.pressurecookrecipes.com/instant-pot-beef-bourguignon/){target="_blank"}
+
+I've made this for years on the stove top, based on the recipe in *The Joy of Cooking*.  Amy and Jacky's version (see link) is somewhat similar.  What follows is a hybridization of the two.
+
+**Ingredients**
+
+> 1 slice bacon^\*^  
+> 1 onion, sliced  
+> 1-2 lbs. stew beef  
+> 1 medium onion, chopped  
+> 1/2 tsp salt  
+> 1 bay leaf  
+> 1/2 tsp thyme  
+> 3/4 cup red wine  
+> 1 tsp tomato paste  
+> 1/4 + 1/4 cup water  
+> 1 tbsp flour
+
+1.  Set your IP on sauté and press start
+2.  While it is coming to temperature, fry the bacon until most of the fat is rendered.  Remove the bacon, let it cool, and then crumble it.
+3.  Season the beef with salt and pepper, and sauté in the bacon fat until browned.
+4.  Remove the meat, and sauté the onions for ~5 minutes.
+5.  Add the wine and 1/4 cup of water to the pot and deglaze carefully,
+6.  Add the salt, thyme, bay leaf, bacon, and  tomato paste to the pot and mix thoroughly.
+7.  Add the beef and seal the pot.
+8.  Pressure cook on high for 30 minutes, followed by 10 minutes of natural release.
+9.  Mix the flour and remaining 1/4 cup of water thoroughly.
+10.  Set the pot on sauté and bring mixture to a simmer.
+11.  Stir in the flour and water and continue to simmer until the sauce has thickened.
+12.  Serve over rice or fettucine
+
+^\*^If you don't wish to use bacon, use a couple of table spoons of olive oil for the sautéing.
+
+NOTE:  This is a pretty stripped down version of the recipe; many others include carrots and mushrooms.  If you wish to do so, you should follow Amy and Jacky's method and pressure cook the meat and vegetables separately, combining at the end.
+
+### Pepper Steak
+
+There are two good recipes for this one (a stir fry) from [The New York Times(https://cooking.nytimes.com/recipes/1024320-pepper-steak){target="_blank"} and one for the IP from [Jeffrey Eisner](https://pressureluckcooking.com/instant-pot-black-pepper-beef/){target="_blank"}.  I'm going to try the Times version first, perhaps adding the sesame oil and/or Hoisin sauce called for in the Eisner version.
+
+
+
+## Rice
+
+### [Mexican Rice](https://www.cookingclassy.com/instant-pot-mexican-rice/)
+
+Again, I've made this in Geneva, sautéing some chorizo first to make it a meal.  
+
+### Basmati Pilau
+
+This is another recipe from Pitre - a fairly simple Indian spiced rice.  I've adopted a suggestion she had in another recipe (for Lamb Biryani) by calling for broiling the onions rather than frying them.
+
+**Ingredients**
+
+> 3-4 green cardamom pods  
+6-8 black peppercorns  
+4 whole cloves  
+2 inch piece cinammon stick  
+1 tbsp ghee or other cooking oil  
+1/2 tsp cumin seeds  
+1 thinly sliced red onion  
+1 tsp salt  
+1 cup basmati rice
+1.5 cups water  
+
+1.  Rinse the rice in a strainer until the water runs clear.  Set aside.
+2.  Spread the onions on a foil lined baking sheet.  sprinkle with salt and drizzle with a little oil.  Broil for about 15 minutes, until brown and crisp.
+3.  Combine the cardamom, cinnamon, peppercorns and cloves in a spice bag or infuser.
+3.  With the IP set on sauté, heat the oil or ghee.  Add the cumin seeds and cook for about 30 seconds, until they sizzle and become aromatic.
+4.  Add the onions, followed by the water, rice and spice bag.
+5.  Pressure cook on high for 5 minutes, followed by a 10 minute natural release.
+
+### [Jambalaya](https://www.berlyskitchen.com/instant-pot-sausage-chicken-jambalaya/){target="_blank"}
+
+The above is an IP version; Paul Prudhomme has an excellent stove top version.  Prudhomme's recipe calls for tasso ham (and Thermoworks has a recipe for making it), however I prefer to use good quality andouille sausage.  
+
+So below is a hybridization of the two, which turned out extremely well for me.
+
+** Ingredients**
+
+*Spice mix* (for 1 cup rice)
+
+> 1 bay leaf  
+1-2 tsp cayenne pepper  
+1 tsp salt  
+1.5 tsp white pepper  
+1 tsp dried thyme  
+1/2 tsp black pepper  
+1/4 tsp sage
+
+*Other Ingredients*
+
+> 2 tbsp butter  
+1/2 lb andouille sausage    
+3/4 lb boneless chicken thighs  
+1 chopped onion  
+1 cup celery (I omit)  
+1 cup chopped green pepper  
+3 cloves garlic, mixed  
+1 cup tomato sauce  
+2 roma tomatopes, chopped    
+1 cup chicken broth   
+1 cup long grain rice (Basmati)    
+
+1.  Combine all of the spices in a small bowl.
+2.  Set the IP to sauté and add the oil, chicken, and sausage .  Cook 3-5 minutes until the chicken is lightly browned.
+3.  Remove the sausage and chicken chicken and drain on paper towels.
+4.  Add the onions, peppers and celery and sauté until soft.
+5.  Add the spice mix and garlic and cook for an additional 1-2 minutes.
+6.  Press cancel, and then add the remaining ingredients except the rice.  Stir gently.
+7.  Add the rice, making sure it is submerged, but do not stir.
+8.  Pressure cook on high for 10 minutes, followed by 5-10 minutes of natural release.
+9.  Remove lid, stir, and serve.
+
+NOTE:  I found this to be absolutely delicious.  When I first opened the pot, it was a bit soupy, but I left it on "keep warm" with the vent on the lid open for about 20 minutes, and it was fine.  That was with five minutes of natural release; I may try a little more in the future.
+
+## Pasta
+
+
+### [Cooking Pasta](https://www.busycooks.net/how-to-cook-perfect-pasta-in-instant-pot/){target="_blank"}
+
+### [Mac and Cheese with Lobster](https://pressureluckcooking.com/instant-pot-lobster-mac/){target="_blank"}
+
+### [Penne alla Vodka](https://www.allrecipes.com/recipe/282455/instant-pot-penne-alla-vodka/){target="_blank"}
+
+### [Cacio e pepe](https://pressureluckcooking.com/instant-pot-cacio-e-pepe/){target="_blank"}
+
+I've done this one on the stovetop, using [this recipe from *Wine Spectator*](https://www.winespectator.com/articles/a-perfect-match-recipe-cacio-e-pepe-with-an-italian-white-wine), twice.  The first time came out great, the second time not so  much.  Here's how I'm going to try it next:
+
+**Ingredients**
+
+>1/2 lb. pasta (spaghetti is traditional, but I like shaped pasta like mini-shells or somesuch)  
+2 cups chicken broth  
+4 tbsp butter, halved  
+1/4 cup grated Pecorino Romano cheese  
+1/4 cup grated Parmesan cheese  
+1/2-1 tbsp coarsely (and preferably freshly) ground black pepper  
+
+1.  Pour the chicken broth into the IP and layer pasta over it.  If using spaghetti or (recommended) bucatini, break the pasta in half prior to layering.
+2.  Place two tablespoons of butter on the top.
+2.  Select pressure cook at high temperature and cook for 5 minutes (an initial guess based on rules for IP pasta cooking.
+3.  Quick release.
+4.  Add the remaining butter and stir until melted.
+5.  Stir in the cheese until melted.
+6.  Add the black pepper, stir, and serve
+
+#### Notes
+
+I made this (using water instead of broth), and it tasted fine but was a little too soupy for my taste.  Next time I will try reducing the amount of broth and perhaps adding a bit more cheese.  However, the pasta cooked beautifully.  It was bucatini, with a recommended stove top cook time of 10-12 minutes.  I gave it five minutes on high pressure, followed by immediate release of pressure.  Stay tuned as I fool with this one. 
+
+## Other Stuff
+
+### Yogurt
+
+Let me be clear at the outset - while I cook with it I don't eat it.  Hence, I will leave it to others to comment on flavor.  Below  is my first attempt, based on both a recipe from Pitre's Instant Pot® Indian cookbook and other suggestions from a variety of online sources (such as [this one](https://www.simplyrecipes.com/recipes/instant_pot_yogurt/)).
+
+The instructions below are for my IP Pro model.  Some of the settings will vary with other models.  Note that using a model with a yogurt button is essential.
+
+
+
+**Ingredients**
+
+> 1 quart whole milk^\*^  
+> 1 packet of yogurt starter^\*\*^
+
+1. Add milk (2 cups) to inner pot. Select the yogurt cycle set to high and press start. 
+2. When the pot reads “boiL” check the temperature of the milk.  It should be ~180^o^ F.  If so, turn off pot and let milk cool to ~110^o^ F.
+3. Remove the film from the surface of the milk by dragging a fork through it.
+4. Add 1 tbsp yogurt starter culture or 2 tbsp of a previous batch and mix briefly.
+5. Set yogurt cycle to Low and press start.  Time should auto set to 8 hours, and milk will be held at 110^o^ F.
+6. Put glass lid or pressure lid on venting  on and let incubate. Yogurt is done when it moves as a solid mass.
+7. Place in refrigerator over night.  For Greek style, place it in a strainer lined with cheesecloth or a coffee filter over a bowl.
+8. In the morning, whisk it until smooth and place in a storage bottle.  Reported refrigerator shelf life is two weeks.
+
+^\*^ There is considerable debate in the literature about use of ultra-pasteurized milk.  Pitre says it’s ok, and you don’t need to do the high heat step.  Others say no, in no uncertain terms.  My guess (which I will test soon) is that it will be fine for yogurt used for marinading but might be a little less flavorful for eating.
+
+^\*\*^  It is possible to start with commercial yogurt, assuming is says "live culture" or somesuch on the package, but I decided to buy a dehydrated starter from Amazon.  I'm hoping to be able to keep this going like sourdough starter, making a new batch every two weeks or so.
+
+**Results**  The resulting yogurt looked absolutely wonderful.  However,
+
+1.  With the commercial starter I used, 8 hours of fermentation was not long enough.  I ended up letting it go for eleven hours, but ten was probably sufficient.
+2.  Straining resulted in incredibly thick greek yogurt, but there wasn't much of it (barely enough to marinade four chicken thighs for ajwain chicken).  I've changed the original recipe to call for one quart of milk, but if you're a major consumer, you may want to go to a half gallon or more.<br>  
+
+<center>
+![](images/yogurt1.jpeg){width=60%}
+
+The results after being drained through a coffee filter overnight
+
+![](images/yogurt2.jpeg){width=30%}&nbsp;&nbsp;
+![](images/yogurt3.jpeg){width=30%}
+
+The separated results - greek yogurt on the left and whey on the right.  If a thinner yogurt is desired, some of the whey can be whipped into it prior to use.<br>  
+
+</center>  
+
+### [Chocolate Cheese Cake](https://myheavenlyrecipes.com/instant-pot-death-by-chocolate-cheesecake-recipe){target="_blank"}
+
+OK, I certainly don't need to eat cheesecake, and in the past it was easy to avoid making, largely because it usually fails.  However, I couldn't resist trying in the Instant Pot®, based on glowing internet comments.  Well, I finally succumbed to tempation and tried this recipe.
+
+**Ingredients**
+
+>10-20 double stuffed oreos^\*^  
+2 packages Philadelphia Cream Cheese  
+1/2 cup sour cream  
+3 tbsp sugar  
+2 tbsp unsweetened cocoa powder  
+2 eggs  
+4 oz. melted semi-sweet or dark chocolate  
+1 tsp vanilla
+
+*For optional topping*
+
+>1/2 cup chocolate chips  
+1/2 cup heavy cream
+
+1.  Be sure that all ingredients are at room temperature
+1.  Pulverize the oreo cookies (complete with creme) in a food procesoe and pack them into the base of a lightly oiled 7 inch springform pan. Place in the freezer until ready to fill.
+2.  Whip the cream cheese in a stand mixer until fluffy.
+3.  Add sugar and mix until it is just combined.
+4.  Add sour cream and mix briefly. 
+5.  Add the melted chocolate, vanilla, and cocoa powder and mix by hand until combined.
+6.  Ad the eggs and mix in, doing so as little as possible.
+7.  Pour the filling into the crust.
+8.  Cover the crust with aluminum foil.
+9.  Place the trivet into your IP, along with 1 cup of water.  You may also want to make a "sling" out of folded aluminum foil, that can be used to remove the cooked cheesecake.
+10. Place the pan into the IP, seal, and pressure cook on high for 35 minutes, followed by a natural release.
+11.  When the pot can be opened, carefully remove the cheesecake from the IP.
+12.  Keeping the foil cover in place, allow it to cool to room temperature.
+13.  Refrigerate overnight, and then remove from the springform pan and enjoy.
+
+^\*^The original recipe calls for 20 cookies, but I found that to be a bit obsessive.
+
+NOTES
+
+When I went to make this the first time, I discovered I was low on sugar, so I reduced it from the 6 recommended tablespoons to three.  I was still delicious.  
+
+<center>
+![](./images/Cheesecake.jpeg){width="70%}
+
+After cooking overnight, this cheesecake was irresistable.
+
+</center>
+
+### [Turtle Cheesecake](https://www.365daysofcrockpot.com/pressure-cooker-turtle-cheesecake/){target="_blank"}

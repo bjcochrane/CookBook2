@@ -1,0 +1,216 @@
+\contentsline {chapter}{Front Matter}{7}{chapter*.2}%
+\contentsline {section}{Dedication}{7}{section*.3}%
+\contentsline {section}{A Note on Production}{7}{section*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Bread}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Grilling and Barbecuing}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Other Stuff}{10}{section.1.3}%
+\contentsline {section}{\numberline {1.4}A Note on Portion Size and Original Sources}{10}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Kitchen Essentials}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Bread Making}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Grilling}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Indoor Cooking}{12}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Bread}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Getting Started}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}What you will need}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Flours}{15}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Sources}{16}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Bread vs.\nobreakspace {}All Purpose.}{16}{subsubsection.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.1.3}Whole Wheat Flour}{16}{subsubsection.3.2.1.3}%
+\contentsline {section}{\numberline {3.3}Making the starter}{16}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Getting it Started}{16}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Maintaining and Recharging}{16}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Recipes}{18}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Pan au Levain}{18}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Pizza Dough}{18}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Sourdough Rolls}{19}{subsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.1}Dinner Rolls}{19}{subsubsection.3.4.3.1}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Day 1}{19}{subsubsection.3.4.3.2}%
+\contentsline {subsubsection}{\numberline {3.4.3.3}Day 2}{20}{subsubsection.3.4.3.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.4}Day 3}{22}{subsubsection.3.4.3.4}%
+\contentsline {subsection}{\numberline {3.4.4}Parmesan Bubble Loaf}{23}{subsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.4.1}Notes}{25}{subsubsection.3.4.4.1}%
+\contentsline {subsection}{\numberline {3.4.5}Ciabatta rolls}{25}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}\href {https://www.sourdoughhome.com/sourdough-kaiser-rolls/}{Kaiser Rolls}}{26}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Essential Tartine Bread}{26}{subsection.3.4.7}%
+\contentsline {subsubsection}{\numberline {3.4.7.1}My method}{27}{subsubsection.3.4.7.1}%
+\contentsline {subsubsection}{\numberline {3.4.7.2}The Leaven (or Starter)}{27}{subsubsection.3.4.7.2}%
+\contentsline {subsubsection}{\numberline {3.4.7.3}Preparing the Dough}{27}{subsubsection.3.4.7.3}%
+\contentsline {subsubsection}{\numberline {3.4.7.4}Shaping the loaves}{28}{subsubsection.3.4.7.4}%
+\contentsline {subsubsection}{\numberline {3.4.7.5}Baking}{28}{subsubsection.3.4.7.5}%
+\contentsline {subsection}{\numberline {3.4.8}Tartine Baguettes}{30}{subsection.3.4.8}%
+\contentsline {subsubsection}{\numberline {3.4.8.1}Starters}{30}{subsubsection.3.4.8.1}%
+\contentsline {subsubsection}{\numberline {3.4.8.2}Mixing and Fermenting}{31}{subsubsection.3.4.8.2}%
+\contentsline {subsubsection}{\numberline {3.4.8.3}Shaping}{31}{subsubsection.3.4.8.3}%
+\contentsline {subsubsection}{\numberline {3.4.8.4}Baking}{31}{subsubsection.3.4.8.4}%
+\contentsline {subsection}{\numberline {3.4.9}\href {https://veenaazmanov.com/sourdough-brioche-buns/}{Sourdough Brioche Buns}}{33}{subsection.3.4.9}%
+\contentsline {chapter}{\numberline {4}Grilling and Barbecuing}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Charcoal and Lighting}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Accessories}{36}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The Basics}{36}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Temperature Control}{37}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Grilling}{40}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Chicken}{40}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Corn on the cob}{41}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Beef Fajitas}{44}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Chicken Fajitas/Tacos}{46}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Korean Chicken Skewers}{46}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Grilled Shrimp}{47}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}\href {https://blog.thermoworks.com/beef/grilled-elk-burgers/}{Elk Burger}}{49}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}\href {https://blog.thermoworks.com/bbq-grilling/grill-lobster/}{Grilled Lobster}}{51}{subsection.4.3.8}%
+\contentsline {section}{\numberline {4.4}Barbecuing}{51}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Beef and Pork}{51}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.1}\href {https://blog.thermoworks.com/beef/brisket-style-tri-tip/}{Brisket Style Tritip}}{51}{subsubsection.4.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.2}Roast beef for sandwiches}{53}{subsubsection.4.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.4.1.3}Pork ribs}{54}{subsubsection.4.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.4.1.4}\href {https://blog.thermoworks.com/bbq-grilling/pig-wings/}{Pig Wings}}{55}{subsubsection.4.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.4.1.5}Candied Ribs/Pork Wings}{56}{subsubsection.4.4.1.5}%
+\contentsline {subsection}{\numberline {4.4.2}Poultry}{57}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.1}Chicken Wings}{57}{subsubsection.4.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.4.2.2}Margarita Brined Chicken}{58}{subsubsection.4.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.3}Smoked Spatchcocked Turkey}{59}{subsubsection.4.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.4.2.4}Smoked Duck}{61}{subsubsection.4.4.2.4}%
+\contentsline {subsection}{\numberline {4.4.3}Fish}{62}{subsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.3.1}Smoked Salmon}{62}{subsubsection.4.4.3.1}%
+\contentsline {chapter}{\numberline {5}Instant Pot}{65}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Basics}{65}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Meat}{66}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}\href {https://www.splendidtable.org/story/2019/02/25/pork-carnitas}{Pork Carnitas} (Mexican Pulled Pork)}{66}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Birria Tacos}{66}{subsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.2.1}Notes}{68}{subsubsection.5.2.2.1}%
+\contentsline {subsection}{\numberline {5.2.3}\href {https://www.lecremedelacrumb.com/instant-pot-bbq-pulled-pork/}{Pulled Pork}}{68}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}\href {https://pressureluckcooking.com/instant-pot-arroz-con-pollo}{Arroz con Pollo}}{68}{subsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.4.1}Notes}{69}{subsubsection.5.2.4.1}%
+\contentsline {subsection}{\numberline {5.2.5}\href {https://www.365daysofcrockpot.com/instant-pot-slow-cooker-st-louis-baby-back-pork-ribs/}{St Louis Ribs}}{69}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}\href {https://stuffmattycooks.com/instant-pot-rare-roast-beef/}{Deli-style Roast Beef}}{69}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}\href {https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-korean-style-short-ribs-5450025}{Korean Short Ribs}}{69}{subsection.5.2.7}%
+\contentsline {subsubsection}{\numberline {5.2.7.1}Notes}{70}{subsubsection.5.2.7.1}%
+\contentsline {subsection}{\numberline {5.2.8}Lamb Rogan Josh}{70}{subsection.5.2.8}%
+\contentsline {subsection}{\numberline {5.2.9}\href {https://cooking.nytimes.com/recipes/1024079-chicken-kofta-in-tomato-gravy}{Lamb Kofta}}{71}{subsection.5.2.9}%
+\contentsline {subsection}{\numberline {5.2.10}\href {https://www.pressurecookrecipes.com/instant-pot-beef-bourguignon/}{Beef Bourguignon}}{72}{subsection.5.2.10}%
+\contentsline {subsection}{\numberline {5.2.11}Pepper Steak}{73}{subsection.5.2.11}%
+\contentsline {section}{\numberline {5.3}Rice}{73}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}\href {https://www.cookingclassy.com/instant-pot-mexican-rice/}{Mexican Rice}}{73}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Basmati Pilau}{73}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Pasta}{74}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}\href {https://www.busycooks.net/how-to-cook-perfect-pasta-in-instant-pot/}{Cooking Pasta}}{74}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}\href {https://pressureluckcooking.com/instant-pot-lobster-mac/}{Mac and Cheese with Lobster}}{74}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}\href {https://www.allrecipes.com/recipe/282455/instant-pot-penne-alla-vodka/}{Penne alla Vodka}}{74}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}\href {https://pressureluckcooking.com/instant-pot-cacio-e-pepe/}{Cacio e pepe}}{74}{subsection.5.4.4}%
+\contentsline {subsubsection}{\numberline {5.4.4.1}Notes}{75}{subsubsection.5.4.4.1}%
+\contentsline {section}{\numberline {5.5}Other Stuff}{75}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Yogurt}{75}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}\href {https://myheavenlyrecipes.com/instant-pot-death-by-chocolate-cheesecake-recipe}{Chocolate Cheese Cake}}{77}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}\href {https://www.365daysofcrockpot.com/pressure-cooker-turtle-cheesecake/}{Turtle Cheesecake}}{79}{subsection.5.5.3}%
+\contentsline {chapter}{\numberline {6}``Comfort'' Food}{81}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Chicken}{81}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Chicken Wings}{81}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}Baking}{81}{subsubsection.6.1.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.2}\href {https://www.allrecipes.com/recipe/219109/buffalo-chicken-wing-sauce/}{Homemade Buffalo Sauce}}{82}{subsubsection.6.1.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.1.3}\href {https://www.epicurious.com/recipes/food/views/sweet-chili-glazed-chicken-wings-4215}{Sweet Chili Glazed Wings}}{82}{subsubsection.6.1.1.3}%
+\contentsline {paragraph}{\numberline {6.1.1.3.1}Notes}{83}{paragraph.6.1.1.3.1}%
+\contentsline {subsection}{\numberline {6.1.2}Lemon Chicken}{83}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}\href {https://www.penzeys.com/shop/recipes/berbere-chicken-and-rice/}{Berbere/curry chicken}}{84}{subsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.3.1}In the Instant Pot}{85}{subsubsection.6.1.3.1}%
+\contentsline {subsection}{\numberline {6.1.4}Chicken Cacciatore}{85}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Pork and beef}{86}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}``Raging'' Rigatoni}{86}{subsection.6.2.1}%
+\contentsline {section}{\numberline {6.3}Seafood}{87}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Shrimp in red sauce}{87}{subsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.1.1}Substituting sausage for shrimp}{88}{subsubsection.6.3.1.1}%
+\contentsline {subsection}{\numberline {6.3.2}Louisiana Barbecued Shrimp}{88}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Shrimp Creole}{89}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}\href {https://www.thespruceeats.com/baked-panko-crusted-fish-3056500}{Panko-encrusted baked fish}}{91}{subsection.6.3.4}%
+\contentsline {section}{\numberline {6.4}Non-meat and -fish}{92}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Macaroni and cheese}{92}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Rice Pilaf}{92}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Creole (Yellow) Rice}{93}{subsection.6.4.3}%
+\contentsline {chapter}{\numberline {7}International Cooking}{95}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Indian}{95}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Ajwain Chicken}{95}{subsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.1}For the Instant Pot®}{96}{subsubsection.7.1.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Chile Fry (Bhuna Murchi Murgh)}{97}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Tamarind Chicken (Imli Murgh)}{98}{subsection.7.1.3}%
+\contentsline {section}{\numberline {7.2}Spanish}{99}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Grilled Shrimp in Serrano Ham}{99}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}\href {https://www.tienda.com/recipes/pork-kebabs.html}{Pork Kebabs}}{100}{subsection.7.2.2}%
+\contentsline {section}{\numberline {7.3}Other Mediterranean}{101}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Ras el Hanout}{101}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Lamb Meat balls}{102}{subsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.2.1}Turkish}{102}{subsubsection.7.3.2.1}%
+\contentsline {subsubsection}{\numberline {7.3.2.2}Moroccan}{103}{subsubsection.7.3.2.2}%
+\contentsline {subsection}{\numberline {7.3.3}Chicken with za'atar, paprika and lemon}{104}{subsection.7.3.3}%
+\contentsline {subsubsection}{\numberline {7.3.3.1}The Original Recipe}{104}{subsubsection.7.3.3.1}%
+\contentsline {subsection}{\numberline {7.3.4}Halloumi Fries}{105}{subsection.7.3.4}%
+\contentsline {section}{\numberline {7.4}Mexican}{105}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Birria tacos}{105}{subsection.7.4.1}%
+\contentsline {chapter}{\numberline {8}Drinks}{107}{chapter.8}%
+\contentsline {section}{\numberline {8.1}A note on spirits}{107}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Bourbon and Rye}{107}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Gin}{108}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Tequila}{108}{subsection.8.1.3}%
+\contentsline {section}{\numberline {8.2}Recipes}{108}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}King's Spicy Margarita}{108}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}``Perfect'' Manhattan}{108}{subsection.8.2.2}%
+\contentsline {chapter}{\numberline {9}Explorations}{111}{chapter.9}%
+\contentsline {section}{\numberline {9.1}More Breads}{111}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Honey Wheat Sourdough Sandwich Bread}{111}{subsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.1.1}Comments}{112}{subsubsection.9.1.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.1.2}Possible Modifications}{112}{subsubsection.9.1.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.1.3}Results}{113}{subsubsection.9.1.1.3}%
+\contentsline {subsection}{\numberline {9.1.2}Crumpets}{113}{subsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.2.1}Substituting sourdough}{114}{subsubsection.9.1.2.1}%
+\contentsline {section}{\numberline {9.2}Miscellany From the Web}{114}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}\href {https://www.foodnetwork.com/recipes/geoffrey-zakarian/orecchiette-with-shrimp-pancetta-and-fresno-chiles-1-6557671}{Orecchiette with Shrimp, Pancetta, and Red Fresno Peppers}}{114}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}\href {https://www.gritsandpinecones.com/the-best-blackened-grouper/}{Blackened Grouper}}{114}{subsection.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.2.1}Notes}{115}{subsubsection.9.2.2.1}%
+\contentsline {subsection}{\numberline {9.2.3}Breakfast meatballs}{115}{subsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.3.1}Notes}{116}{subsubsection.9.2.3.1}%
+\contentsline {subsection}{\numberline {9.2.4}\href {https://blog.thermoworks.com/beef/korean-shortribs-kalbi/}{Grilled Korean Short Ribs}}{116}{subsection.9.2.4}%
+\contentsline {section}{\numberline {9.3}Indoor ``Grilling''}{117}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Sandwiches (Paninis)}{117}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Chicken Wings}{118}{subsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.2.1}Results}{118}{subsubsection.9.3.2.1}%
+\contentsline {subsubsection}{\numberline {9.3.2.2}Possible modifications.}{118}{subsubsection.9.3.2.2}%
+\contentsline {subsubsection}{\numberline {9.3.2.3}Results}{118}{subsubsection.9.3.2.3}%
+\contentsline {subsubsection}{\numberline {9.3.2.4}More ideas}{118}{subsubsection.9.3.2.4}%
+\contentsline {subsection}{\numberline {9.3.3}Chicken Thighs}{119}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.4}Sausage and Peppers}{119}{subsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.3.5}Quesadillas}{119}{subsection.9.3.5}%
+\contentsline {subsection}{\numberline {9.3.6}\href {https://gimmedelicious.com/shrimp-quesadillas/\#recipe}{Shrimp Quesadillas}}{119}{subsection.9.3.6}%
+\contentsline {section}{\numberline {9.4}Fermentation}{120}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}\href {https://nourishedkitchen.com/fermented-hot-chili-sauce-recipe/}{A Generic Fermented Hot Sauce Recipe}}{120}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}\href {https://www.seriouseats.com/double-berry-habanero-hot-sauce}{Habernero and Berry Hot Sauce}}{120}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}\href {https://www.seriouseats.com/chipotle-garlic-and-cumin-fermented-hot-sauce}{Chipotle Fermented Hot Sauce with Garlic and Cumin}}{121}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.4}\href {https://www.seriouseats.com/charred-fresno-tamari-and-roasted-garlic-fermented-hot-sauce}{Hot Sauce with Fresno Chiles, Garlic, and Tamari}}{122}{subsection.9.4.4}%
+\contentsline {chapter}{\numberline {10}Links to Follow}{125}{chapter.10}%
+\contentsline {section}{\numberline {10.1}\href {https://cooking.nytimes.com/}{New York Times Cooking}}{125}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}\href {https://cooking.nytimes.com/recipes/1012984-chicken-teriyaki}{Chicken Teryaki}}{125}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}\href {https://cooking.nytimes.com/recipes/1020833-stuffed-shells}{Stuffed Shells}}{125}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}\href {https://nourishplate.com/instant-pot-marinara/}{Marinara Sauce}}{125}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}\href {https://cooking.nytimes.com/recipes/1017747-meera-sodhas-naan}{Naan}}{126}{subsection.10.1.4}%
+\contentsline {subsection}{\numberline {10.1.5}\href {https://cooking.nytimes.com/recipes/1016071-homemade-pita-bread}{Pita}}{126}{subsection.10.1.5}%
+\contentsline {subsection}{\numberline {10.1.6}\href {https://cooking.nytimes.com/recipes/1023058-sazon-chicken-breasts}{Sazon Chicken}}{126}{subsection.10.1.6}%
+\contentsline {subsection}{\numberline {10.1.7}\href {https://cooking.nytimes.com/recipes/1589-linguine-with-lemon-sauce}{Linguine with Lemon Sauce}}{126}{subsection.10.1.7}%
+\contentsline {subsection}{\numberline {10.1.8}Shrimp Masala}{126}{subsection.10.1.8}%
+\contentsline {subsection}{\numberline {10.1.9}Chicken with Harissa, citrus and dates}{126}{subsection.10.1.9}%
+\contentsline {subsection}{\numberline {10.1.10}\href {https://cooking.nytimes.com/recipes/1023895-chicken-tikka}{Chicken Tikka}}{126}{subsection.10.1.10}%
+\contentsline {section}{\numberline {10.2}{[}Epicurious{]}}{126}{section.10.2}%
+\contentsline {section}{\numberline {10.3}\href {https://blog.thermoworks.com}{Thermoworks}}{126}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}\href {https://blog.thermoworks.com/bbq-grilling/grill-lobster}{Grilled Lobster}}{126}{subsection.10.3.1}%
+\contentsline {section}{\numberline {10.4}Other}{126}{section.10.4}%
+\contentsline {subsection}{\numberline {10.4.1}\href {https://recipes.instantpot.com/recipe/fudgy-chocolate-cake/}{IP Chocolate Cake}}{126}{subsection.10.4.1}%
+\contentsline {subsection}{\numberline {10.4.2}\href {https://www.365daysofcrockpot.com/pressure-cooker-turtle-cheesecake/}{IP Turtle Cheesecake}}{126}{subsection.10.4.2}%
+\contentsline {subsection}{\numberline {10.4.3}\href {https://www.paintthekitchenred.com/homemade-instant-pot-ghee/}{Instant Pot® Ghee}}{126}{subsection.10.4.3}%
+\contentsline {subsection}{\numberline {10.4.4}\href {https://www.berlyskitchen.com/instant-pot-sausage-chicken-jambalaya/}{Jambalaya}}{126}{subsection.10.4.4}%
+\contentsline {chapter}{\numberline {11}References}{129}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Books}{129}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}General Cooking}{129}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Bread}{130}{subsection.11.1.2}%
+\contentsline {section}{\numberline {11.2}Online}{130}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Free Sites}{131}{subsection.11.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.1.1}Bread}{131}{subsubsection.11.2.1.1}%
+\contentsline {subsubsection}{\numberline {11.2.1.2}Grilling and Barbecue}{131}{subsubsection.11.2.1.2}%
+\contentsline {subsubsection}{\numberline {11.2.1.3}General cooking}{131}{subsubsection.11.2.1.3}%
+\contentsline {subsubsection}{\numberline {11.2.1.4}Instant Pot® Recipes}{131}{subsubsection.11.2.1.4}%
+\contentsline {subsection}{\numberline {11.2.2}Paywalled Sites}{131}{subsection.11.2.2}%

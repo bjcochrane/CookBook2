@@ -19,6 +19,7 @@ This is one that Amar used to serve but removed it from their menu a few years a
 4-6 skinless bone-in chicken thighs  
 1 cup yogurt (avoid low fat)  
 1 tsp salt  
+1/4 tsp red pepper (cayenne or flakes)  
 1 tbsp garam masala  
 1 tbsp ajwain seeds  
 
@@ -33,7 +34,7 @@ This is one that Amar used to serve but removed it from their menu a few years a
 4 cloves garlic, sliced  
 2" piece of ginger, peeled and sliced  
 1 tsp turmeric  
-3/4 tsp red pepper flakes  
+1/2 tsp red pepper flakes  
 1 cup chicken stock
 
 1.  Mix the marinade ingredients, add the chicken, and let it marinate overnight.
@@ -44,6 +45,15 @@ This is one that Amar used to serve but removed it from their menu a few years a
 6.  Add the chicken stock and cook on low heat for 40-50 minutes
 
 Serve with rice.
+
+#### For the Instant Pot®
+
+1.  Follow the instructions above through step 5 (using the sauté setting for preparing the onions, spices and chicken).  
+2.  Remove the chicken temporarily and add the chicken broth.
+3.  Put the trivet in place and place the chicken pieces on it.
+4.  Pressure Cook on high for 8 minutes, followed by a 5 minute natural release.  
+5.  Switch the cover switch to vent and let all remaining steam release.
+6.  Remove the chicken.  If the sauce needs some thickening, set on sauté and cook until it is sufficiently released.
 
 ### Chile Fry (Bhuna Murchi Murgh){#chilefry}
 
@@ -330,5 +340,13 @@ So this is a simple recipe I found [here](https://chefabbiegellman.com/baked-hal
 4.  Place cheese sticks on the baking strip and drizzle with olive oil.  
 5.  Cook for 20 minutes, turning them after 10 minutes.
 6.  Serve with dipping sauce (if desired).  The original source recommends hot honey or marinara sauce.
+
+## Mexican
+
+As I was originally developing this book, I scattered a few Mexican recipes here and there, but I finally decided (duh!) that the cuisine warranted its own section.  So here goes.
+
+### Birria tacos
+
+One day over morning coffee, I coincidentally ran across two recipes, one for the [smoker](https://blog.thermoworks.com/beef/birria-tacos-temps/) and one using an [Instant Pot®](https://www.pressurecookrecipes.com/instant-pot-birria/).  Both are similar, in that they involve cooking a tough cut of beef (chuck or similar) to oblivion (so it can be shredded) in a rich consomme, and then soaking corn tortillas in that consomme before frying on a griddle.  If these work, it would mean these could be prepared year round.  Note that the spicing of the IP recipe is more bold - it probably could be used with the smoker cooking method.  A fun spring weekend project.
 
 

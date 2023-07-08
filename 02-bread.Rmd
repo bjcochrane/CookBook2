@@ -224,7 +224,7 @@ rolls with dinner!
 
 \newpage
 
-### Parmesan Bubble Loaf
+### Parmesan Bubble Loaf{#PBL}
 
 This is a combination of three recipes, the [dinner roll](#drolls)
 recipe we've already seen, the recipe from another old but excellent
@@ -286,9 +286,15 @@ The final product
 
 </center>
 
+#### Notes
+
+The baking time and temperature given work well in the oven, however it came out rather dark in the toaster oven.  In the future, I'll try the settings for Honey Wheat Sandwich Bread - 375^o^ F. for 40-45 minutes.
+
 ### Ciabatta rolls
 
 \newpage
+
+### [Kaiser Rolls](https://www.sourdoughhome.com/sourdough-kaiser-rolls/){target="_blank"}
 
 ### Essential Tartine Bread {#tartines}
 
@@ -442,58 +448,56 @@ the previous one but with a couple of key differences:
 
 There are also two ways to bake the bread. The first is on your baking
 stone, with a dish towel saturated in water placed in a shallow pan in
-the oven to create steam - the method in the original recipe. The second
-is one I devised - use a suitable cakepan placed on the stone for the
-bread, and cover it with foil for the first 20 minutes of baking.
+the oven to create steam - the method in the original recipe. 
+
+The second is one I devised, and after many so-so results, have refined to something that gives me what I want - loaves with a light but firm golden brown crust.  In it, I bake the loaves in a cakepan covered with foil for the first thirty minutes, remove the foil and continue to back until the loaves are browned, and then wrap them in clean towels while they cool.  Furthermore, by placing a cookie sheet between the stone and the pan, the bottoms of the loaves do not get overcooked.  Lots of web searching, combined with trial and error, led me to this method.
+
+Finally, I've pretty much settled on using a half recipe and shaping into three loaves.  That is what is given below
+
 
 #### Starters
 
 **Leaven (sourdough starter)**
 
 > 1 tbsp. mother starter\
-> 220 gm. all purpose flour\
-> 220 gm water (80^o^ F.)
+> 110 gm. all purpose flour\
+> 110 gm water (80^o^ F.)
 
 **Poolish (commercial yeast starter)**
 
-> 200 gm. all purpose flour\
-> 200 gm water (80^o^ F.)\
-> 3 gm. active dry yeast
+> 100 gm. all purpose flour\
+> 100 gm water (80^o^ F.)\
+> 2 gm. active dry yeast
 
 Mix the two starters in separate small bowls, cover with food service wrap and place in a warm location overnight.
 
 #### Mixing and Fermenting
 
-400 gm. leaven (all of it)\
-400 gm. poolish (ditto)\
-500 + 25 gm. water (75-80^o^ F.)\
-650 gm. all purpose flour\
-350 gm. bread flour\
-10 gm. salt
+200 gm. leaven (all of it)\
+200 gm. poolish (ditto)\
+250 gm. water (75-80^o^ F.)\
+375 gm. all purpose flour\
+175 gm. bread flour\
+5 gm. salt
 
-1.  Combine leaven, poolish, 500 gm. of water and both flours in bowl of
+1.  Combine leaven, poolish, water, and both flours in bowl of
     stand mixer. Mix with paddle attachment at low speed until all of
     the flour is hydrated (\~1 minute). Cover with cloth and let stand
     30-60 minutes.
 2.  Transfer to a clean bowl and add salt and the remaining water. Work
     them in with your hands.\
 3.  Let the dough rise in a warm place, gently folding every 40 minutes,
-    until the dough becomes puffy and springy (3-4 hours).
+    until the dough becomes puffy and springy (3-4 hours).  Alternatively, let the dough rise for 90 minutes and then refrigerate overnight.
 
 #### Shaping
 
-The first decision you will need to make is how many loaves you want to
-make and when. I kind of like six, but you can do as few as 2 or as many
-as 8. It all depends on the capacity of your oven and your ability to
-put up with multiple round of baking. What follows is for six.
+
 
 And in all candor, I'm still working on the best shaping method. This is
 what I've come up with so far.
 
 1.  Place the dough on a lightly floured surface and divide first into
-    two equal pieces, each of which is divided three ways. If you are
-    only going to bake half of the loaves immediately, put one half in a
-    bowl, cover with food service wrap and refrigerate.
+    three equal pieces, each of which is divided three ways. 
 2.  Shape each piece into a rectangle and let it rest for 30 minutes.
 3.  Cover a cookie sheet with a towel and dust it with rice flour.
 4.  For each loaf, do the following:
@@ -536,18 +540,21 @@ As noted above, there are two methods that can be used.
     middle rack
 2.  Invert the loaves onto a large (9 X 13 in. or larger) cake pan.
     Score the loaves as above Cover with aluminum foil.\
-3.  Place the pan onto the baking stone in the oven, lower the
-    temperature to 475^o^ F. and bake for 20 minutes.
-4.  Remove the foil and continue to bake for another 15-25 minutes,
+3.  Place the pan onto the baking stone in the oven, with a cookie sheet between the pan and the stone.   Lower the
+    temperature to 475^o^ F. and bake for 30 minutes.
+4.  Remove the foil and continue to bake for another 10-15 minutes,
     until the loves are a rich golden brown.
-5.  Place bake loaves on a cooling rack.
-6.  Repeat the above as needed to bake all of the loaves.
+5.  Wrap the loaves in clean kitchen towels and place on a cooling rack.
 
 <center>
 
 ![](images/baguettes-final.jpeg){width="60%"}
 
-The final product. In this case, the dough was divided into eight loaves
-and all were baked on a pizza steel (method 1) on the same day.
+The final product. In this case, a double recipe was prepared andthe dough was divided into eight loaves.
+All were baked on a pizza steel (method 1) on the same day.
 
 </center>
+
+### [Sourdough Brioche Buns](https://veenaazmanov.com/sourdough-brioche-buns/){target="_blank"}
+
+In my seemingly eternal quest for decent homemade burger buns, this sounds like a recipe worth trying.  As an alternative, here is a [simpler recipe](https://veenaazmanov.com/sourdough-hamburger-buns){target="_blank"}.  The main difference is less butter and sugar (probably a good thing, dietarily speaking).

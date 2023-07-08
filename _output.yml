@@ -2,7 +2,7 @@ bookdown::gitbook:
   css: style.css
   split_by: section
   config:
-    toc:
+      toc:
       css: toc.css
       collapse: none
       before: |
