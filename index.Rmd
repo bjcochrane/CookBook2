@@ -18,13 +18,17 @@ github-repo: bjcochrane/CookBook
 My adventures in the kitchen date back to my childhood, and I am actually thankful that neither my mother nor my father (Vince and Jean Cochrane) liked to cook, so they eagerly encouraged my childhood desire to explore. As an adult, my family - both my first wife, the late Barbara Leyden, and my second, Alice Kahn, provided encouragement and constructive criticism where necessary. Finally, my two sons, Steven and John Cochrane, are continuing the cooking tradition - Steven as a vegetarian and John as a budding pitmaster. This book is lovingly dedicated to all of them.
 
 
-## A Note on Production {.unnumbered}
+## A Note on Production and Organization {.unnumbered}
 
 This book was prepared using the [Rstudio](http://www.rstudio.com) [bookdown](http://www.bookdown.org) package. This means that the writing is done using [markdown](https://www.markdownguide.org/) syntax, which is then rendered into html, pdf, and epub versions. My knowledge of markdown is not negligible (I used it a lot in the later part of my career), but neither is it extensive. Furthermore, I am much more interested in writing about food than in dealing with the intracacies of formatting and publishing, so I've kept things pretty basic. I hope this works for you.
 
 Among other features, this combination of tools makes it relatively easy to insert images, although its ability to position them and add fancy features is (at least in my hands) rather limited. Thus, most of the figures are at the end of subsections, and panels contain no more than two images. Also, again for the sake of convenience, I took most of the photos with my iphone. I tried to compose the image somewhat, but some of them are a bit on the crude side.
 
 I've made most of the recipes herein multiple times, but occasionally I will enter an untested one. When I do prepare it, there is a good chance I will adjust it.  If so, I will change the recipe and usually include a note as to why the change has been made.  Thus, this book is a work in progress, so feel free to check back often.  The date below is that on which the most recent version was published.
+
+### Organization {.unnumbered}
+
+When I first started this project, I tried to organize recipes into broad categories - breads, grilling/barbecuing, and other ("Comfort Foods").  I then decided to add "International Cooking", as well as two sections of new ideas ("Explorations" and "Links to Follow".  That was already getting confusing, but when I joined the world of Instant Pot® users, things really got out of hand.  So, as I write today (July, 2023), I am well aware that organization needs work.  I will try to improve it using the existing categories during the coming weeks, but ultimately I hope to produce a version 2.0, where most of these problems go away.
 
 <center>
 *Updated `r format(Sys.Date(),format="%B %d %Y")`*
